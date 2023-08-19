@@ -1,0 +1,2310 @@
+Carlos Veras;Helder Salomão;0.9223300970873787
+Carlos Veras;José Guimarães;0.9247311827956989
+Carlos Veras;Rubens Otoni;0.9318181818181818
+Carlos Veras;Airton Faleiro;0.935064935064935
+Carlos Veras;Alfredinho;0.9880952380952381
+Carlos Veras;Ana Paula Lima;0.9473684210526315
+Carlos Veras;Ana Pimentel;0.9523809523809523
+Carlos Veras;Arlindo Chinaglia;0.9659090909090909
+Carlos Veras;Benedita da Silva;0.9550561797752809
+Carlos Veras;Bohn Gass;0.926829268292683
+Carlos Veras;Camila Jara;0.9024390243902439
+Carlos Veras;Carlos Zarattini;0.9411764705882353
+Carlos Veras;Carol Dartora;0.9629629629629629
+Carlos Veras;Delegada Adriana Accorsi;0.9764705882352941
+Carlos Veras;Denise Pessôa;0.9259259259259259
+Carlos Veras;Dilvanda Faro;0.9418604651162791
+Carlos Veras;Dimas Gadelha;0.9418604651162791
+Carlos Veras;Dr. Francisco;0.9540229885057471
+Carlos Veras;Florentino Neto;0.9294117647058824
+Carlos Veras;Ivoneide Caetano;0.958904109589041
+Carlos Veras;Jack Rocha;0.9310344827586207
+Carlos Veras;Jilmar Tatto;0.9113924050632911
+Carlos Veras;João Daniel;0.975
+Carlos Veras;Jorge Solla;0.975609756097561
+Carlos Veras;José Airton Félix Cirilo;0.9523809523809523
+Carlos Veras;Joseildo Ramos;0.9375
+Carlos Veras;Kiko Celeguim;0.9620253164556962
+Carlos Veras;Leonardo Monteiro;0.9487179487179487
+Carlos Veras;Luizianne Lins;0.9629629629629629
+Carlos Veras;Marcon;0.9629629629629629
+Carlos Veras;Maria do Rosário;0.9436619718309859
+Carlos Veras;Merlong Solano;0.9130434782608695
+Carlos Veras;Natália Bonavides;0.9382716049382716
+Carlos Veras;Nilto Tatto;0.9375
+Carlos Veras;Odair Cunha;0.9390243902439024
+Carlos Veras;Padre João;0.9213483146067416
+Carlos Veras;Paulão;0.9390243902439024
+Carlos Veras;Paulo Guedes;0.9259259259259259
+Carlos Veras;Pedro Uczai;0.9285714285714286
+Carlos Veras;Reginaldo Lopes;0.9545454545454546
+Carlos Veras;Reginete Bispo;0.9295774647887324
+Carlos Veras;Reimont;0.9540229885057471
+Carlos Veras;Rogério Correia;0.9418604651162791
+Carlos Veras;Vander Loubet;0.963855421686747
+Carlos Veras;Vicentinho;0.9506172839506173
+Carlos Veras;Waldenor Pereira;0.9230769230769231
+Carlos Veras;Washington Quaquá;0.9180327868852459
+Carlos Veras;Zé Neto;0.9629629629629629
+Carlos Veras;Zeca Dirceu;0.9710144927536232
+Carlos Veras;Alexandre Lindenmeyer;0.9
+Carlos Veras;Fernando Mineiro;0.9625
+Carlos Veras;Gleisi Hoffmann;0.926829268292683
+Carlos Veras;Juliana Cardoso;0.9459459459459459
+Carlos Veras;Tadeu Veneri;0.925
+Carlos Veras;Welter;0.9375
+Carlos Veras;Josias Gomes;0.9404761904761905
+Carlos Veras;Dandara;0.9054054054054054
+Carlos Veras;Luiza Erundina;0.9230769230769231
+Flávio Nogueira;Helder Salomão;0.9326923076923077
+Flávio Nogueira;Airton Faleiro;0.9090909090909091
+Flávio Nogueira;Alfredinho;0.9166666666666666
+Flávio Nogueira;Ana Paula Lima;0.9078947368421053
+Flávio Nogueira;Ana Pimentel;0.9404761904761905
+Flávio Nogueira;Bohn Gass;0.9146341463414634
+Flávio Nogueira;Carol Dartora;0.9259259259259259
+Flávio Nogueira;Delegada Adriana Accorsi;0.9058823529411765
+Flávio Nogueira;Jack Rocha;0.9080459770114943
+Flávio Nogueira;João Daniel;0.95
+Flávio Nogueira;Jorge Solla;0.9024390243902439
+Flávio Nogueira;José Airton Félix Cirilo;0.9206349206349206
+Flávio Nogueira;Leonardo Monteiro;0.9230769230769231
+Flávio Nogueira;Maria do Rosário;0.9014084507042254
+Flávio Nogueira;Natália Bonavides;0.9259259259259259
+Flávio Nogueira;Nilto Tatto;0.925
+Flávio Nogueira;Odair Cunha;0.9024390243902439
+Flávio Nogueira;Reginaldo Lopes;0.9090909090909091
+Flávio Nogueira;Vicentinho;0.9382716049382716
+Flávio Nogueira;Zé Neto;0.9012345679012346
+Flávio Nogueira;Gleisi Hoffmann;0.9390243902439024
+Flávio Nogueira;Juliana Cardoso;0.9054054054054054
+Helder Salomão;Carlos Veras;0.9223300970873787
+Helder Salomão;Flávio Nogueira;0.9326923076923077
+Helder Salomão;José Guimarães;0.9354838709677419
+Helder Salomão;Rui Falcão;0.9074074074074074
+Helder Salomão;Rubens Pereira Júnior;0.9108910891089109
+Helder Salomão;Luiz Couto;0.9090909090909091
+Helder Salomão;Rubens Otoni;0.9090909090909091
+Helder Salomão;Alfredinho;0.9404761904761905
+Helder Salomão;Ana Pimentel;0.9166666666666666
+Helder Salomão;Arlindo Chinaglia;0.9090909090909091
+Helder Salomão;Bohn Gass;0.9146341463414634
+Helder Salomão;Carol Dartora;0.9135802469135802
+Helder Salomão;Delegada Adriana Accorsi;0.9058823529411765
+Helder Salomão;Jack Rocha;0.9080459770114943
+Helder Salomão;João Daniel;0.925
+Helder Salomão;Jorge Solla;0.9146341463414634
+Helder Salomão;José Airton Félix Cirilo;0.9047619047619048
+Helder Salomão;Joseildo Ramos;0.9
+Helder Salomão;Kiko Celeguim;0.9113924050632911
+Helder Salomão;Luizianne Lins;0.9135802469135802
+Helder Salomão;Maria do Rosário;0.9014084507042254
+Helder Salomão;Natália Bonavides;0.9259259259259259
+Helder Salomão;Nilto Tatto;0.9
+Helder Salomão;Reginaldo Lopes;0.9393939393939394
+Helder Salomão;Reginete Bispo;0.9154929577464789
+Helder Salomão;Vicentinho;0.9382716049382716
+Helder Salomão;Waldenor Pereira;0.9230769230769231
+Helder Salomão;Zé Neto;0.9135802469135802
+Helder Salomão;Zeca Dirceu;0.9420289855072463
+Helder Salomão;Gleisi Hoffmann;0.9390243902439024
+Helder Salomão;Patrus Ananias;0.9682539682539683
+José Guimarães;Carlos Veras;0.9247311827956989
+José Guimarães;Helder Salomão;0.9354838709677419
+José Guimarães;Rui Falcão;0.9139784946236559
+José Guimarães;Rubens Pereira Júnior;0.9032258064516129
+José Guimarães;Alfredinho;0.9404761904761905
+José Guimarães;Ana Pimentel;0.9166666666666666
+José Guimarães;Carol Dartora;0.9012345679012346
+José Guimarães;Delegada Adriana Accorsi;0.9058823529411765
+José Guimarães;João Daniel;0.9125
+José Guimarães;Jorge Solla;0.9390243902439024
+José Guimarães;José Airton Félix Cirilo;0.9047619047619048
+José Guimarães;Joseildo Ramos;0.9125
+José Guimarães;Kiko Celeguim;0.9113924050632911
+José Guimarães;Luizianne Lins;0.9382716049382716
+José Guimarães;Marcon;0.9259259259259259
+José Guimarães;Maria do Rosário;0.9014084507042254
+José Guimarães;Natália Bonavides;0.9012345679012346
+José Guimarães;Odair Cunha;0.9146341463414634
+José Guimarães;Reginaldo Lopes;0.9090909090909091
+José Guimarães;Reimont;0.9080459770114943
+José Guimarães;Vander Loubet;0.9156626506024096
+José Guimarães;Vicentinho;0.9012345679012346
+José Guimarães;Waldenor Pereira;0.9038461538461539
+José Guimarães;Washington Quaquá;0.9180327868852459
+José Guimarães;Zé Neto;0.9506172839506173
+José Guimarães;Zeca Dirceu;0.9565217391304348
+José Guimarães;Fernando Mineiro;0.9125
+José Guimarães;Welter;0.9125
+José Guimarães;Luiza Erundina;0.9230769230769231
+Rui Falcão;Helder Salomão;0.9074074074074074
+Rui Falcão;José Guimarães;0.9139784946236559
+Rui Falcão;Rubens Pereira Júnior;0.900990099009901
+Rui Falcão;Airton Faleiro;0.9090909090909091
+Rui Falcão;Alfredinho;0.9404761904761905
+Rui Falcão;Ana Pimentel;0.9047619047619048
+Rui Falcão;Bohn Gass;0.9146341463414634
+Rui Falcão;Carlos Zarattini;0.9058823529411765
+Rui Falcão;Carol Dartora;0.9012345679012346
+Rui Falcão;Delegada Adriana Accorsi;0.9058823529411765
+Rui Falcão;João Daniel;0.925
+Rui Falcão;Jorge Solla;0.926829268292683
+Rui Falcão;José Airton Félix Cirilo;0.9047619047619048
+Rui Falcão;Joseildo Ramos;0.9125
+Rui Falcão;Kiko Celeguim;0.9240506329113924
+Rui Falcão;Luizianne Lins;0.9135802469135802
+Rui Falcão;Marcon;0.9259259259259259
+Rui Falcão;Maria do Rosário;0.9154929577464789
+Rui Falcão;Nilto Tatto;0.9
+Rui Falcão;Odair Cunha;0.926829268292683
+Rui Falcão;Paulo Guedes;0.9012345679012346
+Rui Falcão;Reginaldo Lopes;0.9090909090909091
+Rui Falcão;Reginete Bispo;0.9014084507042254
+Rui Falcão;Reimont;0.9195402298850575
+Rui Falcão;Vicentinho;0.9135802469135802
+Rui Falcão;Washington Quaquá;0.9180327868852459
+Rui Falcão;Zé Neto;0.9135802469135802
+Rui Falcão;Zeca Dirceu;0.9420289855072463
+Rui Falcão;Fernando Mineiro;0.9
+Rui Falcão;Gleisi Hoffmann;0.9024390243902439
+Rui Falcão;Welter;0.9125
+Rui Falcão;Patrus Ananias;0.9206349206349206
+Rui Falcão;Luiza Erundina;0.9230769230769231
+Tarcísio Motta;Chico Alencar;0.9775280898876404
+Tarcísio Motta;Erika Hilton;0.9846153846153847
+Tarcísio Motta;Fernanda Melchionna;0.926829268292683
+Tarcísio Motta;Guilherme Boulos;0.9550561797752809
+Tarcísio Motta;Ivan Valente;0.9880952380952381
+Tarcísio Motta;Pastor Henrique Vieira;0.9157894736842105
+Tarcísio Motta;Professora Luciene Cavalcante;0.9565217391304348
+Tarcísio Motta;Talíria Petrone;0.9833333333333333
+Tarcísio Motta;Waldenor Pereira;0.9038461538461539
+Tarcísio Motta;Célia Xakriabá;0.9620253164556962
+Tarcísio Motta;Luiza Erundina;0.9230769230769231
+Alencar Santana;Ana Paula Lima;0.9210526315789473
+Alencar Santana;Carol Dartora;0.9135802469135802
+Alencar Santana;Delegada Adriana Accorsi;0.9058823529411765
+Alencar Santana;Ivoneide Caetano;0.9315068493150684
+Alencar Santana;Marcon;0.9135802469135802
+Alencar Santana;Natália Bonavides;0.9012345679012346
+Alencar Santana;Washington Quaquá;0.9016393442622951
+Alencar Santana;Zeca Dirceu;0.9130434782608695
+Alencar Santana;Juliana Cardoso;0.9054054054054054
+Rubens Pereira Júnior;Helder Salomão;0.9108910891089109
+Rubens Pereira Júnior;José Guimarães;0.9032258064516129
+Rubens Pereira Júnior;Rui Falcão;0.900990099009901
+Rubens Pereira Júnior;Rubens Otoni;0.9090909090909091
+Rubens Pereira Júnior;Miguel Ângelo;0.9102564102564102
+Rubens Pereira Júnior;Airton Faleiro;0.948051948051948
+Rubens Pereira Júnior;Alfredinho;0.9404761904761905
+Rubens Pereira Júnior;Ana Paula Lima;0.9210526315789473
+Rubens Pereira Júnior;Ana Pimentel;0.9285714285714286
+Rubens Pereira Júnior;Arlindo Chinaglia;0.9431818181818182
+Rubens Pereira Júnior;Benedita da Silva;0.9438202247191011
+Rubens Pereira Júnior;Bohn Gass;0.9146341463414634
+Rubens Pereira Júnior;Carlos Zarattini;0.9176470588235294
+Rubens Pereira Júnior;Carol Dartora;0.9382716049382716
+Rubens Pereira Júnior;Delegada Adriana Accorsi;0.9529411764705882
+Rubens Pereira Júnior;Denise Pessôa;0.9012345679012346
+Rubens Pereira Júnior;Dilvanda Faro;0.9302325581395349
+Rubens Pereira Júnior;Dimas Gadelha;0.9186046511627907
+Rubens Pereira Júnior;Dr. Francisco;0.9310344827586207
+Rubens Pereira Júnior;Florentino Neto;0.9058823529411765
+Rubens Pereira Júnior;Ivoneide Caetano;0.9452054794520548
+Rubens Pereira Júnior;Jack Rocha;0.9195402298850575
+Rubens Pereira Júnior;João Daniel;0.95
+Rubens Pereira Júnior;Jorge Solla;0.9390243902439024
+Rubens Pereira Júnior;José Airton Félix Cirilo;0.9523809523809523
+Rubens Pereira Júnior;Joseildo Ramos;0.925
+Rubens Pereira Júnior;Kiko Celeguim;0.9493670886075949
+Rubens Pereira Júnior;Leonardo Monteiro;0.9230769230769231
+Rubens Pereira Júnior;Luizianne Lins;0.9506172839506173
+Rubens Pereira Júnior;Marcon;0.9506172839506173
+Rubens Pereira Júnior;Maria do Rosário;0.9014084507042254
+Rubens Pereira Júnior;Merlong Solano;0.9021739130434783
+Rubens Pereira Júnior;Natália Bonavides;0.9382716049382716
+Rubens Pereira Júnior;Nilto Tatto;0.95
+Rubens Pereira Júnior;Odair Cunha;0.926829268292683
+Rubens Pereira Júnior;Padre João;0.9101123595505618
+Rubens Pereira Júnior;Paulão;0.9390243902439024
+Rubens Pereira Júnior;Paulo Guedes;0.9135802469135802
+Rubens Pereira Júnior;Pedro Uczai;0.9285714285714286
+Rubens Pereira Júnior;Reginete Bispo;0.9154929577464789
+Rubens Pereira Júnior;Reimont;0.9195402298850575
+Rubens Pereira Júnior;Rogério Correia;0.9418604651162791
+Rubens Pereira Júnior;Vander Loubet;0.927710843373494
+Rubens Pereira Júnior;Vicentinho;0.9259259259259259
+Rubens Pereira Júnior;Washington Quaquá;0.9180327868852459
+Rubens Pereira Júnior;Zé Neto;0.9259259259259259
+Rubens Pereira Júnior;Zeca Dirceu;0.927536231884058
+Rubens Pereira Júnior;Alexandre Lindenmeyer;0.9
+Rubens Pereira Júnior;Fernando Mineiro;0.95
+Rubens Pereira Júnior;Gleisi Hoffmann;0.9390243902439024
+Rubens Pereira Júnior;Juliana Cardoso;0.9324324324324325
+Rubens Pereira Júnior;Tadeu Veneri;0.9125
+Rubens Pereira Júnior;Welter;0.9
+Rubens Pereira Júnior;Josias Gomes;0.9404761904761905
+Rubens Pereira Júnior;Dandara;0.9054054054054054
+Lindbergh Farias;Ana Paula Lima;0.9078947368421053
+Lindbergh Farias;Camila Jara;0.926829268292683
+Lindbergh Farias;Carol Dartora;0.9012345679012346
+Lindbergh Farias;Jilmar Tatto;0.9113924050632911
+Lindbergh Farias;José Airton Félix Cirilo;0.9047619047619048
+Lindbergh Farias;Joseildo Ramos;0.9125
+Lindbergh Farias;Kiko Celeguim;0.9113924050632911
+Lindbergh Farias;Luizianne Lins;0.9012345679012346
+Lindbergh Farias;Merlong Solano;0.9130434782608695
+Lindbergh Farias;Natália Bonavides;0.9012345679012346
+Lindbergh Farias;Nilto Tatto;0.9125
+Lindbergh Farias;Paulo Guedes;0.9135802469135802
+Lindbergh Farias;Vander Loubet;0.9036144578313253
+Lindbergh Farias;Juliana Cardoso;0.9054054054054054
+Lindbergh Farias;Tadeu Veneri;0.9
+Luiz Couto;Helder Salomão;0.9090909090909091
+Luiz Couto;Patrus Ananias;0.9047619047619048
+Luiz Couto;Luiza Erundina;0.9230769230769231
+Rubens Otoni;Carlos Veras;0.9318181818181818
+Rubens Otoni;Helder Salomão;0.9090909090909091
+Rubens Otoni;Rubens Pereira Júnior;0.9090909090909091
+Rubens Otoni;João Daniel;0.9
+Rubens Otoni;José Airton Félix Cirilo;0.9206349206349206
+Rubens Otoni;Washington Quaquá;0.9016393442622951
+Miguel Ângelo;Rubens Pereira Júnior;0.9102564102564102
+Josias Gomes;Alfredinho;0.9166666666666666
+Josias Gomes;Ana Paula Lima;0.9078947368421053
+Josias Gomes;Ana Pimentel;0.9047619047619048
+Josias Gomes;Arlindo Chinaglia;0.9642857142857143
+Josias Gomes;Benedita da Silva;0.9880952380952381
+Josias Gomes;Bohn Gass;0.9146341463414634
+Josias Gomes;Camila Jara;0.9024390243902439
+Josias Gomes;Carlos Veras;0.9404761904761905
+Josias Gomes;Carlos Zarattini;0.9047619047619048
+Josias Gomes;Carol Dartora;0.9259259259259259
+Josias Gomes;Dilvanda Faro;0.9285714285714286
+Josias Gomes;Dimas Gadelha;0.9404761904761905
+Josias Gomes;Dr. Francisco;0.9404761904761905
+Josias Gomes;Fernando Mineiro;0.925
+Josias Gomes;Florentino Neto;0.9166666666666666
+Josias Gomes;Ivoneide Caetano;0.9041095890410958
+Josias Gomes;Jack Rocha;0.9285714285714286
+Josias Gomes;Jorge Solla;0.9146341463414634
+Josias Gomes;José Airton Félix Cirilo;0.9682539682539683
+Josias Gomes;Kiko Celeguim;0.9240506329113924
+Josias Gomes;Luizianne Lins;0.9506172839506173
+Josias Gomes;Merlong Solano;0.9761904761904762
+Josias Gomes;Natália Bonavides;0.9012345679012346
+Josias Gomes;Odair Cunha;0.9146341463414634
+Josias Gomes;Padre João;0.9404761904761905
+Josias Gomes;Paulo Guedes;0.9012345679012346
+Josias Gomes;Reginete Bispo;0.9014084507042254
+Josias Gomes;Reimont;0.9285714285714286
+Josias Gomes;Tadeu Veneri;0.9
+Josias Gomes;Vander Loubet;0.9036144578313253
+Josias Gomes;Vicentinho;0.9012345679012346
+Josias Gomes;Welter;0.9125
+Josias Gomes;Zé Neto;0.9012345679012346
+Josias Gomes;Zeca Dirceu;0.9130434782608695
+Josias Gomes;Airton Faleiro;0.9090909090909091
+Josias Gomes;Delegada Adriana Accorsi;0.9285714285714286
+Josias Gomes;Juliana Cardoso;0.918918918918919
+Josias Gomes;Nilto Tatto;0.9125
+Josias Gomes;Rubens Pereira Júnior;0.9404761904761905
+Josias Gomes;João Daniel;0.925
+Josias Gomes;Marcon;0.9382716049382716
+Josias Gomes;Rogério Correia;0.9285714285714286
+Airton Faleiro;Alfredinho;0.922077922077922
+Airton Faleiro;Ana Pimentel;0.935064935064935
+Airton Faleiro;Arlindo Chinaglia;0.974025974025974
+Airton Faleiro;Benedita da Silva;0.974025974025974
+Airton Faleiro;Bohn Gass;0.922077922077922
+Airton Faleiro;Carlos Veras;0.935064935064935
+Airton Faleiro;Carlos Zarattini;0.935064935064935
+Airton Faleiro;Carol Dartora;0.9090909090909091
+Airton Faleiro;Delegada Adriana Accorsi;0.935064935064935
+Airton Faleiro;Dilvanda Faro;0.974025974025974
+Airton Faleiro;Dimas Gadelha;0.922077922077922
+Airton Faleiro;Dr. Francisco;0.961038961038961
+Airton Faleiro;Flávio Nogueira;0.9090909090909091
+Airton Faleiro;Florentino Neto;0.922077922077922
+Airton Faleiro;Jack Rocha;0.948051948051948
+Airton Faleiro;João Daniel;0.9090909090909091
+Airton Faleiro;Merlong Solano;0.974025974025974
+Airton Faleiro;Nilto Tatto;0.9090909090909091
+Airton Faleiro;Padre João;0.948051948051948
+Airton Faleiro;Reimont;0.948051948051948
+Airton Faleiro;Rogério Correia;0.948051948051948
+Airton Faleiro;Rubens Pereira Júnior;0.948051948051948
+Airton Faleiro;Rui Falcão;0.9090909090909091
+Airton Faleiro;Vicentinho;0.9090909090909091
+Airton Faleiro;Josias Gomes;0.9090909090909091
+Alfredinho;Airton Faleiro;0.922077922077922
+Alfredinho;Ana Paula Lima;0.9210526315789473
+Alfredinho;Ana Pimentel;0.9523809523809523
+Alfredinho;Arlindo Chinaglia;0.9880952380952381
+Alfredinho;Benedita da Silva;0.9880952380952381
+Alfredinho;Bohn Gass;0.9146341463414634
+Alfredinho;Carlos Veras;0.9880952380952381
+Alfredinho;Carlos Zarattini;0.9404761904761905
+Alfredinho;Carol Dartora;0.9629629629629629
+Alfredinho;Delegada Adriana Accorsi;0.9642857142857143
+Alfredinho;Denise Pessôa;0.9012345679012346
+Alfredinho;Dilvanda Faro;0.9404761904761905
+Alfredinho;Dimas Gadelha;0.9404761904761905
+Alfredinho;Dr. Francisco;0.9642857142857143
+Alfredinho;Flávio Nogueira;0.9166666666666666
+Alfredinho;Florentino Neto;0.9285714285714286
+Alfredinho;Helder Salomão;0.9404761904761905
+Alfredinho;Ivoneide Caetano;0.9315068493150684
+Alfredinho;Jack Rocha;0.9523809523809523
+Alfredinho;João Daniel;0.9625
+Alfredinho;Jorge Solla;0.975609756097561
+Alfredinho;José Airton Félix Cirilo;0.9523809523809523
+Alfredinho;José Guimarães;0.9404761904761905
+Alfredinho;Joseildo Ramos;0.9375
+Alfredinho;Kiko Celeguim;0.9493670886075949
+Alfredinho;Leonardo Monteiro;0.9358974358974359
+Alfredinho;Luizianne Lins;0.9506172839506173
+Alfredinho;Marcon;0.9506172839506173
+Alfredinho;Maria do Rosário;0.9577464788732394
+Alfredinho;Merlong Solano;0.9761904761904762
+Alfredinho;Natália Bonavides;0.9259259259259259
+Alfredinho;Nilto Tatto;0.925
+Alfredinho;Odair Cunha;0.9390243902439024
+Alfredinho;Padre João;0.9642857142857143
+Alfredinho;Paulão;0.926829268292683
+Alfredinho;Paulo Guedes;0.9259259259259259
+Alfredinho;Pedro Uczai;0.9285714285714286
+Alfredinho;Reginaldo Lopes;0.9545454545454546
+Alfredinho;Reginete Bispo;0.9295774647887324
+Alfredinho;Reimont;0.9761904761904762
+Alfredinho;Rogério Correia;0.9404761904761905
+Alfredinho;Rubens Pereira Júnior;0.9404761904761905
+Alfredinho;Rui Falcão;0.9404761904761905
+Alfredinho;Vander Loubet;0.9397590361445783
+Alfredinho;Vicentinho;0.9382716049382716
+Alfredinho;Waldenor Pereira;0.9230769230769231
+Alfredinho;Washington Quaquá;0.9180327868852459
+Alfredinho;Zé Neto;0.9629629629629629
+Alfredinho;Zeca Dirceu;0.9710144927536232
+Alfredinho;Fernando Mineiro;0.95
+Alfredinho;Juliana Cardoso;0.918918918918919
+Alfredinho;Welter;0.9375
+Alfredinho;Josias Gomes;0.9166666666666666
+Alfredinho;Dandara;0.9054054054054054
+Alfredinho;Luiza Erundina;0.9230769230769231
+Ana Paula Lima;Alencar Santana;0.9210526315789473
+Ana Paula Lima;Alfredinho;0.9210526315789473
+Ana Paula Lima;Ana Pimentel;0.9078947368421053
+Ana Paula Lima;Arlindo Chinaglia;0.9736842105263158
+Ana Paula Lima;Benedita da Silva;0.9736842105263158
+Ana Paula Lima;Carlos Veras;0.9473684210526315
+Ana Paula Lima;Carlos Zarattini;0.9342105263157895
+Ana Paula Lima;Carol Dartora;0.9078947368421053
+Ana Paula Lima;Delegada Adriana Accorsi;0.9342105263157895
+Ana Paula Lima;Dilvanda Faro;0.9473684210526315
+Ana Paula Lima;Dimas Gadelha;0.9078947368421053
+Ana Paula Lima;Dr. Francisco;0.9605263157894737
+Ana Paula Lima;Flávio Nogueira;0.9078947368421053
+Ana Paula Lima;Florentino Neto;0.9078947368421053
+Ana Paula Lima;Jack Rocha;0.9605263157894737
+Ana Paula Lima;Lindbergh Farias;0.9078947368421053
+Ana Paula Lima;Merlong Solano;0.9736842105263158
+Ana Paula Lima;Padre João;0.9342105263157895
+Ana Paula Lima;Reimont;0.9342105263157895
+Ana Paula Lima;Rogério Correia;0.9342105263157895
+Ana Paula Lima;Rubens Pereira Júnior;0.9210526315789473
+Ana Paula Lima;Josias Gomes;0.9078947368421053
+Ana Pimentel;Airton Faleiro;0.935064935064935
+Ana Pimentel;Alfredinho;0.9523809523809523
+Ana Pimentel;Ana Paula Lima;0.9078947368421053
+Ana Pimentel;Arlindo Chinaglia;0.9642857142857143
+Ana Pimentel;Benedita da Silva;0.9761904761904762
+Ana Pimentel;Bohn Gass;0.9146341463414634
+Ana Pimentel;Carlos Veras;0.9523809523809523
+Ana Pimentel;Carlos Zarattini;0.9285714285714286
+Ana Pimentel;Carol Dartora;0.9506172839506173
+Ana Pimentel;Delegada Adriana Accorsi;0.9404761904761905
+Ana Pimentel;Dilvanda Faro;0.9285714285714286
+Ana Pimentel;Dimas Gadelha;0.9285714285714286
+Ana Pimentel;Dr. Francisco;0.9404761904761905
+Ana Pimentel;Flávio Nogueira;0.9404761904761905
+Ana Pimentel;Florentino Neto;0.9166666666666666
+Ana Pimentel;Helder Salomão;0.9166666666666666
+Ana Pimentel;Ivoneide Caetano;0.9041095890410958
+Ana Pimentel;Jack Rocha;0.9642857142857143
+Ana Pimentel;João Daniel;0.975
+Ana Pimentel;Jorge Solla;0.9390243902439024
+Ana Pimentel;José Airton Félix Cirilo;0.9365079365079365
+Ana Pimentel;José Guimarães;0.9166666666666666
+Ana Pimentel;Kiko Celeguim;0.9240506329113924
+Ana Pimentel;Leonardo Monteiro;0.9487179487179487
+Ana Pimentel;Luizianne Lins;0.9259259259259259
+Ana Pimentel;Marcon;0.9135802469135802
+Ana Pimentel;Maria do Rosário;0.9436619718309859
+Ana Pimentel;Merlong Solano;0.9642857142857143
+Ana Pimentel;Natália Bonavides;0.9382716049382716
+Ana Pimentel;Nilto Tatto;0.95
+Ana Pimentel;Odair Cunha;0.926829268292683
+Ana Pimentel;Padre João;0.9523809523809523
+Ana Pimentel;Paulão;0.9024390243902439
+Ana Pimentel;Reginaldo Lopes;0.9242424242424242
+Ana Pimentel;Reginete Bispo;0.9014084507042254
+Ana Pimentel;Reimont;0.9404761904761905
+Ana Pimentel;Rogério Correia;0.9285714285714286
+Ana Pimentel;Rubens Pereira Júnior;0.9285714285714286
+Ana Pimentel;Rui Falcão;0.9047619047619048
+Ana Pimentel;Vander Loubet;0.927710843373494
+Ana Pimentel;Vicentinho;0.9506172839506173
+Ana Pimentel;Washington Quaquá;0.9016393442622951
+Ana Pimentel;Zé Neto;0.9259259259259259
+Ana Pimentel;Zeca Dirceu;0.9130434782608695
+Ana Pimentel;Fernando Mineiro;0.9125
+Ana Pimentel;Gleisi Hoffmann;0.9024390243902439
+Ana Pimentel;Juliana Cardoso;0.918918918918919
+Ana Pimentel;Tadeu Veneri;0.9
+Ana Pimentel;Welter;0.925
+Ana Pimentel;Josias Gomes;0.9047619047619048
+Ana Pimentel;Dandara;0.9054054054054054
+Ana Pimentel;Luiza Erundina;0.9230769230769231
+Arlindo Chinaglia;Airton Faleiro;0.974025974025974
+Arlindo Chinaglia;Alfredinho;0.9880952380952381
+Arlindo Chinaglia;Ana Paula Lima;0.9736842105263158
+Arlindo Chinaglia;Ana Pimentel;0.9642857142857143
+Arlindo Chinaglia;Benedita da Silva;0.9886363636363636
+Arlindo Chinaglia;Bohn Gass;0.9634146341463414
+Arlindo Chinaglia;Camila Jara;0.926829268292683
+Arlindo Chinaglia;Carlos Veras;0.9659090909090909
+Arlindo Chinaglia;Carlos Zarattini;0.9647058823529412
+Arlindo Chinaglia;Carol Dartora;0.9876543209876543
+Arlindo Chinaglia;Delegada Adriana Accorsi;0.9882352941176471
+Arlindo Chinaglia;Denise Pessôa;0.9629629629629629
+Arlindo Chinaglia;Dilvanda Faro;0.9651162790697675
+Arlindo Chinaglia;Dimas Gadelha;0.9651162790697675
+Arlindo Chinaglia;Dr. Francisco;0.9885057471264368
+Arlindo Chinaglia;Florentino Neto;0.9411764705882353
+Arlindo Chinaglia;Helder Salomão;0.9090909090909091
+Arlindo Chinaglia;Ivoneide Caetano;0.9863013698630136
+Arlindo Chinaglia;Jack Rocha;0.9540229885057471
+Arlindo Chinaglia;Jilmar Tatto;0.9113924050632911
+Arlindo Chinaglia;João Daniel;0.9875
+Arlindo Chinaglia;Jorge Solla;0.975609756097561
+Arlindo Chinaglia;José Airton Félix Cirilo;0.9682539682539683
+Arlindo Chinaglia;Joseildo Ramos;0.95
+Arlindo Chinaglia;Kiko Celeguim;0.9620253164556962
+Arlindo Chinaglia;Leonardo Monteiro;0.9487179487179487
+Arlindo Chinaglia;Luizianne Lins;0.9753086419753086
+Arlindo Chinaglia;Marcon;0.9629629629629629
+Arlindo Chinaglia;Maria do Rosário;0.9577464788732394
+Arlindo Chinaglia;Merlong Solano;0.9772727272727273
+Arlindo Chinaglia;Natália Bonavides;0.9629629629629629
+Arlindo Chinaglia;Nilto Tatto;0.9625
+Arlindo Chinaglia;Odair Cunha;0.9512195121951219
+Arlindo Chinaglia;Padre João;0.9545454545454546
+Arlindo Chinaglia;Paulão;0.9390243902439024
+Arlindo Chinaglia;Paulo Guedes;0.9382716049382716
+Arlindo Chinaglia;Pedro Uczai;0.9642857142857143
+Arlindo Chinaglia;Reginaldo Lopes;0.9393939393939394
+Arlindo Chinaglia;Reginete Bispo;0.9436619718309859
+Arlindo Chinaglia;Reimont;0.9655172413793104
+Arlindo Chinaglia;Rogério Correia;0.9651162790697675
+Arlindo Chinaglia;Rubens Pereira Júnior;0.9431818181818182
+Arlindo Chinaglia;Valmir Assunção;0.9113924050632911
+Arlindo Chinaglia;Vander Loubet;0.963855421686747
+Arlindo Chinaglia;Vicentinho;0.9753086419753086
+Arlindo Chinaglia;Waldenor Pereira;0.9230769230769231
+Arlindo Chinaglia;Washington Quaquá;0.9508196721311475
+Arlindo Chinaglia;Zé Neto;0.9629629629629629
+Arlindo Chinaglia;Zeca Dirceu;0.9855072463768116
+Arlindo Chinaglia;Alexandre Lindenmeyer;0.9375
+Arlindo Chinaglia;Fernando Mineiro;0.9625
+Arlindo Chinaglia;Gleisi Hoffmann;0.9146341463414634
+Arlindo Chinaglia;Juliana Cardoso;0.9594594594594594
+Arlindo Chinaglia;Tadeu Veneri;0.9375
+Arlindo Chinaglia;Welter;0.95
+Arlindo Chinaglia;Josias Gomes;0.9642857142857143
+Arlindo Chinaglia;Dandara;0.9324324324324325
+Arlindo Chinaglia;Luiza Erundina;0.9230769230769231
+Benedita da Silva;Airton Faleiro;0.974025974025974
+Benedita da Silva;Alfredinho;0.9880952380952381
+Benedita da Silva;Ana Paula Lima;0.9736842105263158
+Benedita da Silva;Ana Pimentel;0.9761904761904762
+Benedita da Silva;Arlindo Chinaglia;0.9886363636363636
+Benedita da Silva;Bohn Gass;0.9634146341463414
+Benedita da Silva;Camila Jara;0.9512195121951219
+Benedita da Silva;Carlos Veras;0.9550561797752809
+Benedita da Silva;Carlos Zarattini;0.9647058823529412
+Benedita da Silva;Carol Dartora;0.9876543209876543
+Benedita da Silva;Delegada Adriana Accorsi;0.9882352941176471
+Benedita da Silva;Denise Pessôa;0.9629629629629629
+Benedita da Silva;Dilvanda Faro;0.9767441860465116
+Benedita da Silva;Dimas Gadelha;0.9651162790697675
+Benedita da Silva;Dr. Francisco;0.9770114942528736
+Benedita da Silva;Florentino Neto;0.9529411764705882
+Benedita da Silva;Ivoneide Caetano;0.9863013698630136
+Benedita da Silva;Jack Rocha;0.9655172413793104
+Benedita da Silva;Jilmar Tatto;0.9240506329113924
+Benedita da Silva;João Daniel;1.0
+Benedita da Silva;Jorge Solla;0.9878048780487805
+Benedita da Silva;José Airton Félix Cirilo;1.0
+Benedita da Silva;Joseildo Ramos;0.9625
+Benedita da Silva;Kiko Celeguim;0.9746835443037974
+Benedita da Silva;Leonardo Monteiro;0.9743589743589743
+Benedita da Silva;Luizianne Lins;0.9876543209876543
+Benedita da Silva;Marcon;0.9753086419753086
+Benedita da Silva;Maria do Rosário;0.9577464788732394
+Benedita da Silva;Merlong Solano;0.9887640449438202
+Benedita da Silva;Natália Bonavides;0.9753086419753086
+Benedita da Silva;Nilto Tatto;0.9875
+Benedita da Silva;Odair Cunha;0.9634146341463414
+Benedita da Silva;Padre João;0.9550561797752809
+Benedita da Silva;Paulão;0.9634146341463414
+Benedita da Silva;Paulo Guedes;0.9506172839506173
+Benedita da Silva;Pedro Uczai;0.9523809523809523
+Benedita da Silva;Reginaldo Lopes;0.9393939393939394
+Benedita da Silva;Reginete Bispo;0.9436619718309859
+Benedita da Silva;Reimont;0.9655172413793104
+Benedita da Silva;Rogério Correia;0.9767441860465116
+Benedita da Silva;Rubens Pereira Júnior;0.9438202247191011
+Benedita da Silva;Valmir Assunção;0.9240506329113924
+Benedita da Silva;Vander Loubet;0.9759036144578314
+Benedita da Silva;Vicentinho;0.9753086419753086
+Benedita da Silva;Waldenor Pereira;0.9423076923076923
+Benedita da Silva;Washington Quaquá;0.9672131147540983
+Benedita da Silva;Zé Neto;0.9753086419753086
+Benedita da Silva;Zeca Dirceu;0.9710144927536232
+Benedita da Silva;Alexandre Lindenmeyer;0.9375
+Benedita da Silva;Fernando Mineiro;0.975
+Benedita da Silva;Gleisi Hoffmann;0.9390243902439024
+Benedita da Silva;Juliana Cardoso;0.972972972972973
+Benedita da Silva;Tadeu Veneri;0.95
+Benedita da Silva;Welter;0.95
+Benedita da Silva;Josias Gomes;0.9880952380952381
+Benedita da Silva;Dandara;0.9459459459459459
+Bohn Gass;Airton Faleiro;0.922077922077922
+Bohn Gass;Alfredinho;0.9146341463414634
+Bohn Gass;Ana Pimentel;0.9146341463414634
+Bohn Gass;Arlindo Chinaglia;0.9634146341463414
+Bohn Gass;Benedita da Silva;0.9634146341463414
+Bohn Gass;Carlos Veras;0.926829268292683
+Bohn Gass;Carlos Zarattini;0.9390243902439024
+Bohn Gass;Carol Dartora;0.9135802469135802
+Bohn Gass;Delegada Adriana Accorsi;0.9146341463414634
+Bohn Gass;Dilvanda Faro;0.9390243902439024
+Bohn Gass;Dimas Gadelha;0.9390243902439024
+Bohn Gass;Dr. Francisco;0.9634146341463414
+Bohn Gass;Flávio Nogueira;0.9146341463414634
+Bohn Gass;Florentino Neto;0.9024390243902439
+Bohn Gass;Helder Salomão;0.9146341463414634
+Bohn Gass;Jack Rocha;0.9390243902439024
+Bohn Gass;João Daniel;0.9125
+Bohn Gass;Luizianne Lins;0.9012345679012346
+Bohn Gass;Merlong Solano;0.975609756097561
+Bohn Gass;Natália Bonavides;0.9012345679012346
+Bohn Gass;Nilto Tatto;0.9125
+Bohn Gass;Padre João;0.9390243902439024
+Bohn Gass;Reginete Bispo;0.9295774647887324
+Bohn Gass;Reimont;0.9634146341463414
+Bohn Gass;Rogério Correia;0.9512195121951219
+Bohn Gass;Rubens Pereira Júnior;0.9146341463414634
+Bohn Gass;Rui Falcão;0.9146341463414634
+Bohn Gass;Vicentinho;0.9259259259259259
+Bohn Gass;Zeca Dirceu;0.9130434782608695
+Bohn Gass;Alexandre Lindenmeyer;0.9
+Bohn Gass;Juliana Cardoso;0.9054054054054054
+Bohn Gass;Tadeu Veneri;0.9
+Bohn Gass;Josias Gomes;0.9146341463414634
+Camila Jara;Arlindo Chinaglia;0.926829268292683
+Camila Jara;Benedita da Silva;0.9512195121951219
+Camila Jara;Carlos Veras;0.9024390243902439
+Camila Jara;Dilvanda Faro;0.9024390243902439
+Camila Jara;Dr. Francisco;0.9146341463414634
+Camila Jara;Florentino Neto;0.926829268292683
+Camila Jara;Lindbergh Farias;0.926829268292683
+Camila Jara;Merlong Solano;0.9878048780487805
+Camila Jara;Padre João;0.9024390243902439
+Camila Jara;Reimont;0.9024390243902439
+Camila Jara;Rogério Correia;0.9024390243902439
+Camila Jara;Josias Gomes;0.9024390243902439
+Carlos Zarattini;Airton Faleiro;0.935064935064935
+Carlos Zarattini;Alfredinho;0.9404761904761905
+Carlos Zarattini;Ana Paula Lima;0.9342105263157895
+Carlos Zarattini;Ana Pimentel;0.9285714285714286
+Carlos Zarattini;Arlindo Chinaglia;0.9647058823529412
+Carlos Zarattini;Benedita da Silva;0.9647058823529412
+Carlos Zarattini;Bohn Gass;0.9390243902439024
+Carlos Zarattini;Carlos Veras;0.9411764705882353
+Carlos Zarattini;Carol Dartora;0.9382716049382716
+Carlos Zarattini;Delegada Adriana Accorsi;0.9294117647058824
+Carlos Zarattini;Denise Pessôa;0.9259259259259259
+Carlos Zarattini;Dilvanda Faro;0.9294117647058824
+Carlos Zarattini;Dimas Gadelha;0.9411764705882353
+Carlos Zarattini;Dr. Francisco;0.9764705882352941
+Carlos Zarattini;Florentino Neto;0.9176470588235294
+Carlos Zarattini;Ivoneide Caetano;0.9315068493150684
+Carlos Zarattini;Jack Rocha;0.9529411764705882
+Carlos Zarattini;João Daniel;0.9375
+Carlos Zarattini;Jorge Solla;0.926829268292683
+Carlos Zarattini;José Airton Félix Cirilo;0.9523809523809523
+Carlos Zarattini;Joseildo Ramos;0.9
+Carlos Zarattini;Kiko Celeguim;0.9240506329113924
+Carlos Zarattini;Leonardo Monteiro;0.9358974358974359
+Carlos Zarattini;Luizianne Lins;0.9135802469135802
+Carlos Zarattini;Marcon;0.9382716049382716
+Carlos Zarattini;Maria do Rosário;0.9154929577464789
+Carlos Zarattini;Merlong Solano;0.9647058823529412
+Carlos Zarattini;Natália Bonavides;0.9135802469135802
+Carlos Zarattini;Nilto Tatto;0.925
+Carlos Zarattini;Odair Cunha;0.9146341463414634
+Carlos Zarattini;Padre João;0.9411764705882353
+Carlos Zarattini;Paulão;0.9390243902439024
+Carlos Zarattini;Pedro Uczai;0.9047619047619048
+Carlos Zarattini;Reginaldo Lopes;0.9090909090909091
+Carlos Zarattini;Reginete Bispo;0.9295774647887324
+Carlos Zarattini;Reimont;0.9647058823529412
+Carlos Zarattini;Rogério Correia;0.9411764705882353
+Carlos Zarattini;Rubens Pereira Júnior;0.9176470588235294
+Carlos Zarattini;Rui Falcão;0.9058823529411765
+Carlos Zarattini;Vander Loubet;0.9156626506024096
+Carlos Zarattini;Vicentinho;0.9506172839506173
+Carlos Zarattini;Washington Quaquá;0.9508196721311475
+Carlos Zarattini;Zé Neto;0.9382716049382716
+Carlos Zarattini;Zeca Dirceu;0.9420289855072463
+Carlos Zarattini;Alexandre Lindenmeyer;0.9
+Carlos Zarattini;Fernando Mineiro;0.9375
+Carlos Zarattini;Juliana Cardoso;0.9324324324324325
+Carlos Zarattini;Tadeu Veneri;0.9
+Carlos Zarattini;Welter;0.95
+Carlos Zarattini;Josias Gomes;0.9047619047619048
+Carlos Zarattini;Dandara;0.9054054054054054
+Carlos Zarattini;Luiza Erundina;0.9230769230769231
+Carol Dartora;Airton Faleiro;0.9090909090909091
+Carol Dartora;Alencar Santana;0.9135802469135802
+Carol Dartora;Alfredinho;0.9629629629629629
+Carol Dartora;Ana Paula Lima;0.9078947368421053
+Carol Dartora;Ana Pimentel;0.9506172839506173
+Carol Dartora;Arlindo Chinaglia;0.9876543209876543
+Carol Dartora;Benedita da Silva;0.9876543209876543
+Carol Dartora;Bohn Gass;0.9135802469135802
+Carol Dartora;Carlos Veras;0.9629629629629629
+Carol Dartora;Carlos Zarattini;0.9382716049382716
+Carol Dartora;Delegada Adriana Accorsi;0.9506172839506173
+Carol Dartora;Dilvanda Faro;0.9629629629629629
+Carol Dartora;Dimas Gadelha;0.9382716049382716
+Carol Dartora;Dr. Francisco;0.9753086419753086
+Carol Dartora;Flávio Nogueira;0.9259259259259259
+Carol Dartora;Florentino Neto;0.9135802469135802
+Carol Dartora;Helder Salomão;0.9135802469135802
+Carol Dartora;Jack Rocha;0.9629629629629629
+Carol Dartora;João Daniel;0.9375
+Carol Dartora;Jorge Solla;0.9259259259259259
+Carol Dartora;José Airton Félix Cirilo;0.9047619047619048
+Carol Dartora;José Guimarães;0.9012345679012346
+Carol Dartora;Leonardo Monteiro;0.9102564102564102
+Carol Dartora;Lindbergh Farias;0.9012345679012346
+Carol Dartora;Luizianne Lins;0.9012345679012346
+Carol Dartora;Marcon;0.9135802469135802
+Carol Dartora;Maria do Rosário;0.9295774647887324
+Carol Dartora;Merlong Solano;0.9876543209876543
+Carol Dartora;Natália Bonavides;0.9012345679012346
+Carol Dartora;Nilto Tatto;0.925
+Carol Dartora;Odair Cunha;0.9012345679012346
+Carol Dartora;Padre João;0.9629629629629629
+Carol Dartora;Paulo Guedes;0.9135802469135802
+Carol Dartora;Pedro Uczai;0.9135802469135802
+Carol Dartora;Reginaldo Lopes;0.9242424242424242
+Carol Dartora;Reimont;0.9629629629629629
+Carol Dartora;Rogério Correia;0.9629629629629629
+Carol Dartora;Rubens Pereira Júnior;0.9382716049382716
+Carol Dartora;Rui Falcão;0.9012345679012346
+Carol Dartora;Vander Loubet;0.9012345679012346
+Carol Dartora;Vicentinho;0.9135802469135802
+Carol Dartora;Zé Neto;0.9012345679012346
+Carol Dartora;Zeca Dirceu;0.927536231884058
+Carol Dartora;Juliana Cardoso;0.9054054054054054
+Carol Dartora;Welter;0.9
+Carol Dartora;Josias Gomes;0.9259259259259259
+Carol Dartora;Luiza Erundina;0.9230769230769231
+Chico Alencar;Erika Hilton;0.9846153846153847
+Chico Alencar;Fernanda Melchionna;0.9146341463414634
+Chico Alencar;Guilherme Boulos;0.9662921348314607
+Chico Alencar;Ivan Valente;0.9642857142857143
+Chico Alencar;Pastor Henrique Vieira;0.9775280898876404
+Chico Alencar;Professora Luciene Cavalcante;0.9775280898876404
+Chico Alencar;Talíria Petrone;1.0
+Chico Alencar;Tarcísio Motta;0.9775280898876404
+Chico Alencar;Célia Xakriabá;0.9746835443037974
+Delegada Adriana Accorsi;Airton Faleiro;0.935064935064935
+Delegada Adriana Accorsi;Alencar Santana;0.9058823529411765
+Delegada Adriana Accorsi;Alfredinho;0.9642857142857143
+Delegada Adriana Accorsi;Ana Paula Lima;0.9342105263157895
+Delegada Adriana Accorsi;Ana Pimentel;0.9404761904761905
+Delegada Adriana Accorsi;Arlindo Chinaglia;0.9882352941176471
+Delegada Adriana Accorsi;Benedita da Silva;0.9882352941176471
+Delegada Adriana Accorsi;Bohn Gass;0.9146341463414634
+Delegada Adriana Accorsi;Carlos Veras;0.9764705882352941
+Delegada Adriana Accorsi;Carlos Zarattini;0.9294117647058824
+Delegada Adriana Accorsi;Carol Dartora;0.9506172839506173
+Delegada Adriana Accorsi;Denise Pessôa;0.9135802469135802
+Delegada Adriana Accorsi;Dilvanda Faro;0.9411764705882353
+Delegada Adriana Accorsi;Dimas Gadelha;0.9411764705882353
+Delegada Adriana Accorsi;Dr. Francisco;0.9647058823529412
+Delegada Adriana Accorsi;Flávio Nogueira;0.9058823529411765
+Delegada Adriana Accorsi;Florentino Neto;0.9176470588235294
+Delegada Adriana Accorsi;Helder Salomão;0.9058823529411765
+Delegada Adriana Accorsi;Ivoneide Caetano;0.958904109589041
+Delegada Adriana Accorsi;Jack Rocha;0.9411764705882353
+Delegada Adriana Accorsi;João Daniel;0.975
+Delegada Adriana Accorsi;Jorge Solla;0.9512195121951219
+Delegada Adriana Accorsi;José Airton Félix Cirilo;0.9365079365079365
+Delegada Adriana Accorsi;José Guimarães;0.9058823529411765
+Delegada Adriana Accorsi;Joseildo Ramos;0.925
+Delegada Adriana Accorsi;Kiko Celeguim;0.9367088607594937
+Delegada Adriana Accorsi;Leonardo Monteiro;0.9487179487179487
+Delegada Adriana Accorsi;Luizianne Lins;0.9382716049382716
+Delegada Adriana Accorsi;Marcon;0.9506172839506173
+Delegada Adriana Accorsi;Maria do Rosário;0.9154929577464789
+Delegada Adriana Accorsi;Merlong Solano;0.9764705882352941
+Delegada Adriana Accorsi;Natália Bonavides;0.9259259259259259
+Delegada Adriana Accorsi;Nilto Tatto;0.9375
+Delegada Adriana Accorsi;Odair Cunha;0.926829268292683
+Delegada Adriana Accorsi;Padre João;0.9529411764705882
+Delegada Adriana Accorsi;Paulão;0.9146341463414634
+Delegada Adriana Accorsi;Paulo Guedes;0.9012345679012346
+Delegada Adriana Accorsi;Pedro Uczai;0.9166666666666666
+Delegada Adriana Accorsi;Reginaldo Lopes;0.9242424242424242
+Delegada Adriana Accorsi;Reginete Bispo;0.9154929577464789
+Delegada Adriana Accorsi;Reimont;0.9529411764705882
+Delegada Adriana Accorsi;Rogério Correia;0.9529411764705882
+Delegada Adriana Accorsi;Rubens Pereira Júnior;0.9529411764705882
+Delegada Adriana Accorsi;Rui Falcão;0.9058823529411765
+Delegada Adriana Accorsi;Vander Loubet;0.9397590361445783
+Delegada Adriana Accorsi;Vicentinho;0.9259259259259259
+Delegada Adriana Accorsi;Washington Quaquá;0.9180327868852459
+Delegada Adriana Accorsi;Zé Neto;0.9382716049382716
+Delegada Adriana Accorsi;Zeca Dirceu;0.9420289855072463
+Delegada Adriana Accorsi;Fernando Mineiro;0.9375
+Delegada Adriana Accorsi;Juliana Cardoso;0.9459459459459459
+Delegada Adriana Accorsi;Tadeu Veneri;0.9
+Delegada Adriana Accorsi;Welter;0.9125
+Delegada Adriana Accorsi;Josias Gomes;0.9285714285714286
+Delegada Adriana Accorsi;Dandara;0.9054054054054054
+Denise Pessôa;Alfredinho;0.9012345679012346
+Denise Pessôa;Arlindo Chinaglia;0.9629629629629629
+Denise Pessôa;Benedita da Silva;0.9629629629629629
+Denise Pessôa;Carlos Veras;0.9259259259259259
+Denise Pessôa;Carlos Zarattini;0.9259259259259259
+Denise Pessôa;Delegada Adriana Accorsi;0.9135802469135802
+Denise Pessôa;Dilvanda Faro;0.9135802469135802
+Denise Pessôa;Dimas Gadelha;0.9135802469135802
+Denise Pessôa;Dr. Francisco;0.9629629629629629
+Denise Pessôa;Jack Rocha;0.9382716049382716
+Denise Pessôa;João Daniel;0.9
+Denise Pessôa;Maria do Rosário;0.9154929577464789
+Denise Pessôa;Merlong Solano;0.9506172839506173
+Denise Pessôa;Padre João;0.9259259259259259
+Denise Pessôa;Pedro Uczai;0.9012345679012346
+Denise Pessôa;Reimont;0.9259259259259259
+Denise Pessôa;Rogério Correia;0.9259259259259259
+Denise Pessôa;Rubens Pereira Júnior;0.9012345679012346
+Denise Pessôa;Vicentinho;0.9012345679012346
+Denise Pessôa;Waldenor Pereira;0.9230769230769231
+Denise Pessôa;Alexandre Lindenmeyer;0.9
+Dilvanda Faro;Airton Faleiro;0.974025974025974
+Dilvanda Faro;Alfredinho;0.9404761904761905
+Dilvanda Faro;Ana Paula Lima;0.9473684210526315
+Dilvanda Faro;Ana Pimentel;0.9285714285714286
+Dilvanda Faro;Arlindo Chinaglia;0.9651162790697675
+Dilvanda Faro;Benedita da Silva;0.9767441860465116
+Dilvanda Faro;Bohn Gass;0.9390243902439024
+Dilvanda Faro;Camila Jara;0.9024390243902439
+Dilvanda Faro;Carlos Veras;0.9418604651162791
+Dilvanda Faro;Carlos Zarattini;0.9294117647058824
+Dilvanda Faro;Carol Dartora;0.9629629629629629
+Dilvanda Faro;Delegada Adriana Accorsi;0.9411764705882353
+Dilvanda Faro;Denise Pessôa;0.9135802469135802
+Dilvanda Faro;Dimas Gadelha;0.9302325581395349
+Dilvanda Faro;Dr. Francisco;0.9534883720930233
+Dilvanda Faro;Florentino Neto;0.9058823529411765
+Dilvanda Faro;Ivoneide Caetano;0.9315068493150684
+Dilvanda Faro;Jack Rocha;0.9302325581395349
+Dilvanda Faro;João Daniel;0.9375
+Dilvanda Faro;Jorge Solla;0.9512195121951219
+Dilvanda Faro;José Airton Félix Cirilo;0.9365079365079365
+Dilvanda Faro;Joseildo Ramos;0.9125
+Dilvanda Faro;Kiko Celeguim;0.9493670886075949
+Dilvanda Faro;Leonardo Monteiro;0.9230769230769231
+Dilvanda Faro;Luizianne Lins;0.9382716049382716
+Dilvanda Faro;Marcon;0.9382716049382716
+Dilvanda Faro;Maria do Rosário;0.9014084507042254
+Dilvanda Faro;Merlong Solano;0.9767441860465116
+Dilvanda Faro;Natália Bonavides;0.9259259259259259
+Dilvanda Faro;Nilto Tatto;0.9375
+Dilvanda Faro;Odair Cunha;0.9146341463414634
+Dilvanda Faro;Padre João;0.9418604651162791
+Dilvanda Faro;Paulão;0.9146341463414634
+Dilvanda Faro;Paulo Guedes;0.9135802469135802
+Dilvanda Faro;Pedro Uczai;0.9047619047619048
+Dilvanda Faro;Reginaldo Lopes;0.9090909090909091
+Dilvanda Faro;Reginete Bispo;0.9295774647887324
+Dilvanda Faro;Reimont;0.9418604651162791
+Dilvanda Faro;Rogério Correia;0.9534883720930233
+Dilvanda Faro;Rubens Pereira Júnior;0.9302325581395349
+Dilvanda Faro;Vander Loubet;0.927710843373494
+Dilvanda Faro;Vicentinho;0.9259259259259259
+Dilvanda Faro;Waldenor Pereira;0.9423076923076923
+Dilvanda Faro;Washington Quaquá;0.9180327868852459
+Dilvanda Faro;Zé Neto;0.9382716049382716
+Dilvanda Faro;Zeca Dirceu;0.927536231884058
+Dilvanda Faro;Alexandre Lindenmeyer;0.9
+Dilvanda Faro;Fernando Mineiro;0.925
+Dilvanda Faro;Juliana Cardoso;0.9324324324324325
+Dilvanda Faro;Tadeu Veneri;0.925
+Dilvanda Faro;Welter;0.9125
+Dilvanda Faro;Josias Gomes;0.9285714285714286
+Dilvanda Faro;Dandara;0.9054054054054054
+Dilvanda Faro;Luiza Erundina;0.9230769230769231
+Dimas Gadelha;Airton Faleiro;0.922077922077922
+Dimas Gadelha;Alfredinho;0.9404761904761905
+Dimas Gadelha;Ana Paula Lima;0.9078947368421053
+Dimas Gadelha;Ana Pimentel;0.9285714285714286
+Dimas Gadelha;Arlindo Chinaglia;0.9651162790697675
+Dimas Gadelha;Benedita da Silva;0.9651162790697675
+Dimas Gadelha;Bohn Gass;0.9390243902439024
+Dimas Gadelha;Carlos Veras;0.9418604651162791
+Dimas Gadelha;Carlos Zarattini;0.9411764705882353
+Dimas Gadelha;Carol Dartora;0.9382716049382716
+Dimas Gadelha;Delegada Adriana Accorsi;0.9411764705882353
+Dimas Gadelha;Denise Pessôa;0.9135802469135802
+Dimas Gadelha;Dilvanda Faro;0.9302325581395349
+Dimas Gadelha;Dr. Francisco;0.9534883720930233
+Dimas Gadelha;Florentino Neto;0.9176470588235294
+Dimas Gadelha;Ivoneide Caetano;0.9178082191780822
+Dimas Gadelha;Jack Rocha;0.9186046511627907
+Dimas Gadelha;João Daniel;0.9375
+Dimas Gadelha;Jorge Solla;0.9390243902439024
+Dimas Gadelha;José Airton Félix Cirilo;0.9523809523809523
+Dimas Gadelha;Kiko Celeguim;0.9367088607594937
+Dimas Gadelha;Leonardo Monteiro;0.9102564102564102
+Dimas Gadelha;Luizianne Lins;0.9506172839506173
+Dimas Gadelha;Marcon;0.9382716049382716
+Dimas Gadelha;Maria do Rosário;0.9436619718309859
+Dimas Gadelha;Merlong Solano;0.9534883720930233
+Dimas Gadelha;Natália Bonavides;0.9135802469135802
+Dimas Gadelha;Nilto Tatto;0.925
+Dimas Gadelha;Odair Cunha;0.9390243902439024
+Dimas Gadelha;Padre João;0.9302325581395349
+Dimas Gadelha;Paulão;0.9024390243902439
+Dimas Gadelha;Paulo Guedes;0.9012345679012346
+Dimas Gadelha;Pedro Uczai;0.9047619047619048
+Dimas Gadelha;Reginete Bispo;0.9154929577464789
+Dimas Gadelha;Reimont;0.9534883720930233
+Dimas Gadelha;Rogério Correia;0.9186046511627907
+Dimas Gadelha;Rubens Pereira Júnior;0.9186046511627907
+Dimas Gadelha;Vander Loubet;0.927710843373494
+Dimas Gadelha;Vicentinho;0.9382716049382716
+Dimas Gadelha;Washington Quaquá;0.9672131147540983
+Dimas Gadelha;Zé Neto;0.9382716049382716
+Dimas Gadelha;Zeca Dirceu;0.9565217391304348
+Dimas Gadelha;Alexandre Lindenmeyer;0.9
+Dimas Gadelha;Fernando Mineiro;0.925
+Dimas Gadelha;Juliana Cardoso;0.918918918918919
+Dimas Gadelha;Tadeu Veneri;0.9
+Dimas Gadelha;Welter;0.95
+Dimas Gadelha;Josias Gomes;0.9404761904761905
+Dimas Gadelha;Luiza Erundina;0.9230769230769231
+Dr. Francisco;Airton Faleiro;0.961038961038961
+Dr. Francisco;Alfredinho;0.9642857142857143
+Dr. Francisco;Ana Paula Lima;0.9605263157894737
+Dr. Francisco;Ana Pimentel;0.9404761904761905
+Dr. Francisco;Arlindo Chinaglia;0.9885057471264368
+Dr. Francisco;Benedita da Silva;0.9770114942528736
+Dr. Francisco;Bohn Gass;0.9634146341463414
+Dr. Francisco;Camila Jara;0.9146341463414634
+Dr. Francisco;Carlos Veras;0.9540229885057471
+Dr. Francisco;Carlos Zarattini;0.9764705882352941
+Dr. Francisco;Carol Dartora;0.9753086419753086
+Dr. Francisco;Delegada Adriana Accorsi;0.9647058823529412
+Dr. Francisco;Denise Pessôa;0.9629629629629629
+Dr. Francisco;Dilvanda Faro;0.9534883720930233
+Dr. Francisco;Dimas Gadelha;0.9534883720930233
+Dr. Francisco;Florentino Neto;0.9176470588235294
+Dr. Francisco;Ivoneide Caetano;0.9726027397260274
+Dr. Francisco;Jack Rocha;0.9425287356321839
+Dr. Francisco;Jilmar Tatto;0.9113924050632911
+Dr. Francisco;João Daniel;0.9625
+Dr. Francisco;Jorge Solla;0.9512195121951219
+Dr. Francisco;José Airton Félix Cirilo;0.9523809523809523
+Dr. Francisco;Joseildo Ramos;0.9375
+Dr. Francisco;Kiko Celeguim;0.9493670886075949
+Dr. Francisco;Leonardo Monteiro;0.9487179487179487
+Dr. Francisco;Luizianne Lins;0.9506172839506173
+Dr. Francisco;Marcon;0.9506172839506173
+Dr. Francisco;Maria do Rosário;0.9436619718309859
+Dr. Francisco;Merlong Solano;0.9770114942528736
+Dr. Francisco;Natália Bonavides;0.9382716049382716
+Dr. Francisco;Nilto Tatto;0.95
+Dr. Francisco;Odair Cunha;0.926829268292683
+Dr. Francisco;Padre João;0.9425287356321839
+Dr. Francisco;Paulão;0.9390243902439024
+Dr. Francisco;Paulo Guedes;0.9135802469135802
+Dr. Francisco;Pedro Uczai;0.9404761904761905
+Dr. Francisco;Reginaldo Lopes;0.9393939393939394
+Dr. Francisco;Reginete Bispo;0.9295774647887324
+Dr. Francisco;Reimont;0.9655172413793104
+Dr. Francisco;Rogério Correia;0.9651162790697675
+Dr. Francisco;Rubens Pereira Júnior;0.9310344827586207
+Dr. Francisco;Vander Loubet;0.9397590361445783
+Dr. Francisco;Vicentinho;0.9753086419753086
+Dr. Francisco;Waldenor Pereira;0.9230769230769231
+Dr. Francisco;Washington Quaquá;0.9672131147540983
+Dr. Francisco;Zé Neto;0.9506172839506173
+Dr. Francisco;Zeca Dirceu;0.9855072463768116
+Dr. Francisco;Alexandre Lindenmeyer;0.95
+Dr. Francisco;Fernando Mineiro;0.9375
+Dr. Francisco;Juliana Cardoso;0.9459459459459459
+Dr. Francisco;Tadeu Veneri;0.9375
+Dr. Francisco;Welter;0.9625
+Dr. Francisco;Josias Gomes;0.9404761904761905
+Dr. Francisco;Dandara;0.9324324324324325
+Dr. Francisco;Luiza Erundina;0.9615384615384616
+Erika Hilton;Chico Alencar;0.9846153846153847
+Erika Hilton;Erika Kokay;0.9076923076923077
+Erika Hilton;Guilherme Boulos;0.9692307692307692
+Erika Hilton;Ivan Valente;0.9692307692307692
+Erika Hilton;Pastor Henrique Vieira;0.9692307692307692
+Erika Hilton;Professora Luciene Cavalcante;0.9846153846153847
+Erika Hilton;Tarcísio Motta;0.9846153846153847
+Erika Kokay;Erika Hilton;0.9076923076923077
+Erika Kokay;Reginete Bispo;0.9014084507042254
+Erika Kokay;Waldenor Pereira;0.9615384615384616
+Erika Kokay;Luiza Erundina;0.9230769230769231
+Fernanda Melchionna;Chico Alencar;0.9146341463414634
+Fernanda Melchionna;Pastor Henrique Vieira;0.9146341463414634
+Fernanda Melchionna;Professora Luciene Cavalcante;0.926829268292683
+Fernanda Melchionna;Tarcísio Motta;0.926829268292683
+Florentino Neto;Airton Faleiro;0.922077922077922
+Florentino Neto;Alfredinho;0.9285714285714286
+Florentino Neto;Ana Paula Lima;0.9078947368421053
+Florentino Neto;Ana Pimentel;0.9166666666666666
+Florentino Neto;Arlindo Chinaglia;0.9411764705882353
+Florentino Neto;Benedita da Silva;0.9529411764705882
+Florentino Neto;Bohn Gass;0.9024390243902439
+Florentino Neto;Camila Jara;0.926829268292683
+Florentino Neto;Carlos Veras;0.9294117647058824
+Florentino Neto;Carlos Zarattini;0.9176470588235294
+Florentino Neto;Carol Dartora;0.9135802469135802
+Florentino Neto;Delegada Adriana Accorsi;0.9176470588235294
+Florentino Neto;Dilvanda Faro;0.9058823529411765
+Florentino Neto;Dimas Gadelha;0.9176470588235294
+Florentino Neto;Dr. Francisco;0.9176470588235294
+Florentino Neto;Ivoneide Caetano;0.9178082191780822
+Florentino Neto;Jack Rocha;0.9176470588235294
+Florentino Neto;João Daniel;0.925
+Florentino Neto;Jorge Solla;0.9146341463414634
+Florentino Neto;José Airton Félix Cirilo;0.9206349206349206
+Florentino Neto;Joseildo Ramos;0.9
+Florentino Neto;Leonardo Monteiro;0.9102564102564102
+Florentino Neto;Luizianne Lins;0.9135802469135802
+Florentino Neto;Marcon;0.9259259259259259
+Florentino Neto;Merlong Solano;0.9764705882352941
+Florentino Neto;Natália Bonavides;0.9135802469135802
+Florentino Neto;Nilto Tatto;0.9
+Florentino Neto;Odair Cunha;0.9024390243902439
+Florentino Neto;Padre João;0.9294117647058824
+Florentino Neto;Paulão;0.9024390243902439
+Florentino Neto;Paulo Guedes;0.9135802469135802
+Florentino Neto;Reimont;0.9176470588235294
+Florentino Neto;Rogério Correia;0.9058823529411765
+Florentino Neto;Rubens Pereira Júnior;0.9058823529411765
+Florentino Neto;Vander Loubet;0.9036144578313253
+Florentino Neto;Vicentinho;0.9012345679012346
+Florentino Neto;Zé Neto;0.9135802469135802
+Florentino Neto;Zeca Dirceu;0.9130434782608695
+Florentino Neto;Fernando Mineiro;0.9125
+Florentino Neto;Josias Gomes;0.9166666666666666
+Florentino Neto;Juliana Cardoso;0.9054054054054054
+Guilherme Boulos;Chico Alencar;0.9662921348314607
+Guilherme Boulos;Erika Hilton;0.9692307692307692
+Guilherme Boulos;Ivan Valente;0.9404761904761905
+Guilherme Boulos;Pastor Henrique Vieira;0.9662921348314607
+Guilherme Boulos;Professora Luciene Cavalcante;0.9550561797752809
+Guilherme Boulos;Talíria Petrone;0.9833333333333333
+Guilherme Boulos;Tarcísio Motta;0.9550561797752809
+Guilherme Boulos;Célia Xakriabá;0.9746835443037974
+Guilherme Boulos;Luiza Erundina;0.9230769230769231
+Ivan Valente;Chico Alencar;0.9642857142857143
+Ivan Valente;Erika Hilton;0.9692307692307692
+Ivan Valente;Guilherme Boulos;0.9404761904761905
+Ivan Valente;Pastor Henrique Vieira;0.9642857142857143
+Ivan Valente;Professora Luciene Cavalcante;0.9761904761904762
+Ivan Valente;Talíria Petrone;0.9
+Ivan Valente;Tarcísio Motta;0.9880952380952381
+Ivan Valente;Luiza Erundina;0.9230769230769231
+Ivoneide Caetano;Alencar Santana;0.9315068493150684
+Ivoneide Caetano;Alfredinho;0.9315068493150684
+Ivoneide Caetano;Ana Pimentel;0.9041095890410958
+Ivoneide Caetano;Arlindo Chinaglia;0.9863013698630136
+Ivoneide Caetano;Benedita da Silva;0.9863013698630136
+Ivoneide Caetano;Carlos Veras;0.958904109589041
+Ivoneide Caetano;Carlos Zarattini;0.9315068493150684
+Ivoneide Caetano;Delegada Adriana Accorsi;0.958904109589041
+Ivoneide Caetano;Dilvanda Faro;0.9315068493150684
+Ivoneide Caetano;Dimas Gadelha;0.9178082191780822
+Ivoneide Caetano;Dr. Francisco;0.9726027397260274
+Ivoneide Caetano;Florentino Neto;0.9178082191780822
+Ivoneide Caetano;Jack Rocha;0.9452054794520548
+Ivoneide Caetano;Merlong Solano;0.9726027397260274
+Ivoneide Caetano;Padre João;0.9452054794520548
+Ivoneide Caetano;Pedro Uczai;0.9041095890410958
+Ivoneide Caetano;Reimont;0.9315068493150684
+Ivoneide Caetano;Rogério Correia;0.9452054794520548
+Ivoneide Caetano;Rubens Pereira Júnior;0.9452054794520548
+Ivoneide Caetano;Washington Quaquá;0.9344262295081968
+Ivoneide Caetano;Josias Gomes;0.9041095890410958
+Jack Rocha;Airton Faleiro;0.948051948051948
+Jack Rocha;Alfredinho;0.9523809523809523
+Jack Rocha;Ana Paula Lima;0.9605263157894737
+Jack Rocha;Ana Pimentel;0.9642857142857143
+Jack Rocha;Arlindo Chinaglia;0.9540229885057471
+Jack Rocha;Benedita da Silva;0.9655172413793104
+Jack Rocha;Bohn Gass;0.9390243902439024
+Jack Rocha;Carlos Veras;0.9310344827586207
+Jack Rocha;Carlos Zarattini;0.9529411764705882
+Jack Rocha;Carol Dartora;0.9629629629629629
+Jack Rocha;Delegada Adriana Accorsi;0.9411764705882353
+Jack Rocha;Denise Pessôa;0.9382716049382716
+Jack Rocha;Dilvanda Faro;0.9302325581395349
+Jack Rocha;Dimas Gadelha;0.9186046511627907
+Jack Rocha;Dr. Francisco;0.9425287356321839
+Jack Rocha;Flávio Nogueira;0.9080459770114943
+Jack Rocha;Florentino Neto;0.9176470588235294
+Jack Rocha;Helder Salomão;0.9080459770114943
+Jack Rocha;Ivoneide Caetano;0.9452054794520548
+Jack Rocha;João Daniel;0.975
+Jack Rocha;Jorge Solla;0.9390243902439024
+Jack Rocha;José Airton Félix Cirilo;0.9841269841269841
+Jack Rocha;Joseildo Ramos;0.9
+Jack Rocha;Kiko Celeguim;0.9367088607594937
+Jack Rocha;Leonardo Monteiro;0.9615384615384616
+Jack Rocha;Luizianne Lins;0.9382716049382716
+Jack Rocha;Marcon;0.9259259259259259
+Jack Rocha;Maria do Rosário;0.9295774647887324
+Jack Rocha;Merlong Solano;0.9540229885057471
+Jack Rocha;Natália Bonavides;0.9753086419753086
+Jack Rocha;Nilto Tatto;0.9625
+Jack Rocha;Odair Cunha;0.926829268292683
+Jack Rocha;Padre João;0.9425287356321839
+Jack Rocha;Paulão;0.926829268292683
+Jack Rocha;Paulo Guedes;0.9135802469135802
+Jack Rocha;Pedro Uczai;0.9047619047619048
+Jack Rocha;Reginaldo Lopes;0.9696969696969697
+Jack Rocha;Reginete Bispo;0.9295774647887324
+Jack Rocha;Reimont;0.9195402298850575
+Jack Rocha;Rogério Correia;0.9418604651162791
+Jack Rocha;Rubens Pereira Júnior;0.9195402298850575
+Jack Rocha;Vander Loubet;0.927710843373494
+Jack Rocha;Vicentinho;0.9753086419753086
+Jack Rocha;Waldenor Pereira;0.9038461538461539
+Jack Rocha;Washington Quaquá;0.9016393442622951
+Jack Rocha;Zé Neto;0.9506172839506173
+Jack Rocha;Zeca Dirceu;0.927536231884058
+Jack Rocha;Alexandre Lindenmeyer;0.9375
+Jack Rocha;Fernando Mineiro;0.9375
+Jack Rocha;Gleisi Hoffmann;0.9024390243902439
+Jack Rocha;Juliana Cardoso;0.918918918918919
+Jack Rocha;Tadeu Veneri;0.9375
+Jack Rocha;Welter;0.9375
+Jack Rocha;Josias Gomes;0.9285714285714286
+Jack Rocha;Dandara;0.9459459459459459
+Jilmar Tatto;Arlindo Chinaglia;0.9113924050632911
+Jilmar Tatto;Benedita da Silva;0.9240506329113924
+Jilmar Tatto;Carlos Veras;0.9113924050632911
+Jilmar Tatto;Dr. Francisco;0.9113924050632911
+Jilmar Tatto;Lindbergh Farias;0.9113924050632911
+Jilmar Tatto;Merlong Solano;0.9620253164556962
+Jilmar Tatto;Reimont;0.9113924050632911
+Jilmar Tatto;Rogério Correia;0.9113924050632911
+João Daniel;Airton Faleiro;0.9090909090909091
+João Daniel;Alfredinho;0.9625
+João Daniel;Ana Pimentel;0.975
+João Daniel;Arlindo Chinaglia;0.9875
+João Daniel;Benedita da Silva;1.0
+João Daniel;Bohn Gass;0.9125
+João Daniel;Carlos Veras;0.975
+João Daniel;Carlos Zarattini;0.9375
+João Daniel;Carol Dartora;0.9375
+João Daniel;Delegada Adriana Accorsi;0.975
+João Daniel;Denise Pessôa;0.9
+João Daniel;Dilvanda Faro;0.9375
+João Daniel;Dimas Gadelha;0.9375
+João Daniel;Dr. Francisco;0.9625
+João Daniel;Flávio Nogueira;0.95
+João Daniel;Florentino Neto;0.925
+João Daniel;Helder Salomão;0.925
+João Daniel;Jack Rocha;0.975
+João Daniel;Jorge Solla;0.9125
+João Daniel;José Airton Félix Cirilo;0.9047619047619048
+João Daniel;José Guimarães;0.9125
+João Daniel;Leonardo Monteiro;0.9358974358974359
+João Daniel;Marcon;0.9125
+João Daniel;Maria do Rosário;0.9154929577464789
+João Daniel;Merlong Solano;0.9875
+João Daniel;Natália Bonavides;0.9125
+João Daniel;Nilto Tatto;0.9375
+João Daniel;Odair Cunha;0.9125
+João Daniel;Padre João;0.975
+João Daniel;Paulão;0.9
+João Daniel;Pedro Uczai;0.9
+João Daniel;Reginaldo Lopes;0.9090909090909091
+João Daniel;Reimont;0.95
+João Daniel;Rogério Correia;0.9625
+João Daniel;Rubens Otoni;0.9
+João Daniel;Rubens Pereira Júnior;0.95
+João Daniel;Rui Falcão;0.925
+João Daniel;Vander Loubet;0.9125
+João Daniel;Vicentinho;0.925
+João Daniel;Gleisi Hoffmann;0.9
+João Daniel;Juliana Cardoso;0.9054054054054054
+João Daniel;Josias Gomes;0.925
+Jorge Solla;Alfredinho;0.975609756097561
+Jorge Solla;Ana Pimentel;0.9390243902439024
+Jorge Solla;Arlindo Chinaglia;0.975609756097561
+Jorge Solla;Benedita da Silva;0.9878048780487805
+Jorge Solla;Carlos Veras;0.975609756097561
+Jorge Solla;Carlos Zarattini;0.926829268292683
+Jorge Solla;Carol Dartora;0.9259259259259259
+Jorge Solla;Delegada Adriana Accorsi;0.9512195121951219
+Jorge Solla;Dilvanda Faro;0.9512195121951219
+Jorge Solla;Dimas Gadelha;0.9390243902439024
+Jorge Solla;Dr. Francisco;0.9512195121951219
+Jorge Solla;Flávio Nogueira;0.9024390243902439
+Jorge Solla;Florentino Neto;0.9146341463414634
+Jorge Solla;Helder Salomão;0.9146341463414634
+Jorge Solla;Jack Rocha;0.9390243902439024
+Jorge Solla;João Daniel;0.9125
+Jorge Solla;José Airton Félix Cirilo;0.9365079365079365
+Jorge Solla;José Guimarães;0.9390243902439024
+Jorge Solla;Joseildo Ramos;0.9
+Jorge Solla;Kiko Celeguim;0.9367088607594937
+Jorge Solla;Luizianne Lins;0.9382716049382716
+Jorge Solla;Marcon;0.9259259259259259
+Jorge Solla;Maria do Rosário;0.9577464788732394
+Jorge Solla;Merlong Solano;0.975609756097561
+Jorge Solla;Odair Cunha;0.9024390243902439
+Jorge Solla;Padre João;0.9512195121951219
+Jorge Solla;Paulo Guedes;0.9135802469135802
+Jorge Solla;Pedro Uczai;0.9146341463414634
+Jorge Solla;Reginaldo Lopes;0.9545454545454546
+Jorge Solla;Reginete Bispo;0.9154929577464789
+Jorge Solla;Reimont;0.975609756097561
+Jorge Solla;Rogério Correia;0.9512195121951219
+Jorge Solla;Rubens Pereira Júnior;0.9390243902439024
+Jorge Solla;Rui Falcão;0.926829268292683
+Jorge Solla;Vander Loubet;0.9634146341463414
+Jorge Solla;Vicentinho;0.9012345679012346
+Jorge Solla;Waldenor Pereira;0.9423076923076923
+Jorge Solla;Zé Neto;0.9506172839506173
+Jorge Solla;Zeca Dirceu;0.927536231884058
+Jorge Solla;Fernando Mineiro;0.925
+Jorge Solla;Juliana Cardoso;0.9054054054054054
+Jorge Solla;Welter;0.9125
+Jorge Solla;Josias Gomes;0.9146341463414634
+Jorge Solla;Luiza Erundina;0.9230769230769231
+José Airton Félix Cirilo;Alfredinho;0.9523809523809523
+José Airton Félix Cirilo;Ana Pimentel;0.9365079365079365
+José Airton Félix Cirilo;Arlindo Chinaglia;0.9682539682539683
+José Airton Félix Cirilo;Benedita da Silva;1.0
+José Airton Félix Cirilo;Carlos Veras;0.9523809523809523
+José Airton Félix Cirilo;Carlos Zarattini;0.9523809523809523
+José Airton Félix Cirilo;Carol Dartora;0.9047619047619048
+José Airton Félix Cirilo;Delegada Adriana Accorsi;0.9365079365079365
+José Airton Félix Cirilo;Dilvanda Faro;0.9365079365079365
+José Airton Félix Cirilo;Dimas Gadelha;0.9523809523809523
+José Airton Félix Cirilo;Dr. Francisco;0.9523809523809523
+José Airton Félix Cirilo;Flávio Nogueira;0.9206349206349206
+José Airton Félix Cirilo;Florentino Neto;0.9206349206349206
+José Airton Félix Cirilo;Helder Salomão;0.9047619047619048
+José Airton Félix Cirilo;Jack Rocha;0.9841269841269841
+José Airton Félix Cirilo;João Daniel;0.9047619047619048
+José Airton Félix Cirilo;Jorge Solla;0.9365079365079365
+José Airton Félix Cirilo;José Guimarães;0.9047619047619048
+José Airton Félix Cirilo;Kiko Celeguim;0.9047619047619048
+José Airton Félix Cirilo;Lindbergh Farias;0.9047619047619048
+José Airton Félix Cirilo;Luizianne Lins;0.9365079365079365
+José Airton Félix Cirilo;Marcon;0.9206349206349206
+José Airton Félix Cirilo;Merlong Solano;0.9841269841269841
+José Airton Félix Cirilo;Natália Bonavides;0.9047619047619048
+José Airton Félix Cirilo;Odair Cunha;0.9206349206349206
+José Airton Félix Cirilo;Padre João;0.9682539682539683
+José Airton Félix Cirilo;Paulão;0.9047619047619048
+José Airton Félix Cirilo;Paulo Guedes;0.9047619047619048
+José Airton Félix Cirilo;Reimont;0.9523809523809523
+José Airton Félix Cirilo;Rogério Correia;0.9365079365079365
+José Airton Félix Cirilo;Rubens Otoni;0.9206349206349206
+José Airton Félix Cirilo;Rubens Pereira Júnior;0.9523809523809523
+José Airton Félix Cirilo;Rui Falcão;0.9047619047619048
+José Airton Félix Cirilo;Vander Loubet;0.9523809523809523
+José Airton Félix Cirilo;Vicentinho;0.9047619047619048
+José Airton Félix Cirilo;Zé Neto;0.9206349206349206
+José Airton Félix Cirilo;Gleisi Hoffmann;0.9206349206349206
+José Airton Félix Cirilo;Josias Gomes;0.9682539682539683
+Joseildo Ramos;Alfredinho;0.9375
+Joseildo Ramos;Arlindo Chinaglia;0.95
+Joseildo Ramos;Benedita da Silva;0.9625
+Joseildo Ramos;Carlos Veras;0.9375
+Joseildo Ramos;Carlos Zarattini;0.9
+Joseildo Ramos;Delegada Adriana Accorsi;0.925
+Joseildo Ramos;Dilvanda Faro;0.9125
+Joseildo Ramos;Dr. Francisco;0.9375
+Joseildo Ramos;Florentino Neto;0.9
+Joseildo Ramos;Helder Salomão;0.9
+Joseildo Ramos;Jack Rocha;0.9
+Joseildo Ramos;Jorge Solla;0.9
+Joseildo Ramos;José Guimarães;0.9125
+Joseildo Ramos;Lindbergh Farias;0.9125
+Joseildo Ramos;Marcon;0.9125
+Joseildo Ramos;Merlong Solano;1.0
+Joseildo Ramos;Nilto Tatto;0.9
+Joseildo Ramos;Padre João;0.925
+Joseildo Ramos;Pedro Uczai;0.9
+Joseildo Ramos;Reimont;0.95
+Joseildo Ramos;Rogério Correia;0.9375
+Joseildo Ramos;Rubens Pereira Júnior;0.925
+Joseildo Ramos;Rui Falcão;0.9125
+Joseildo Ramos;Washington Quaquá;0.9016393442622951
+Joseildo Ramos;Zé Neto;0.9
+Joseildo Ramos;Zeca Dirceu;0.9130434782608695
+Kiko Celeguim;Alfredinho;0.9493670886075949
+Kiko Celeguim;Ana Pimentel;0.9240506329113924
+Kiko Celeguim;Arlindo Chinaglia;0.9620253164556962
+Kiko Celeguim;Benedita da Silva;0.9746835443037974
+Kiko Celeguim;Carlos Veras;0.9620253164556962
+Kiko Celeguim;Carlos Zarattini;0.9240506329113924
+Kiko Celeguim;Delegada Adriana Accorsi;0.9367088607594937
+Kiko Celeguim;Dilvanda Faro;0.9493670886075949
+Kiko Celeguim;Dimas Gadelha;0.9367088607594937
+Kiko Celeguim;Dr. Francisco;0.9493670886075949
+Kiko Celeguim;Helder Salomão;0.9113924050632911
+Kiko Celeguim;Jack Rocha;0.9367088607594937
+Kiko Celeguim;Jorge Solla;0.9367088607594937
+Kiko Celeguim;José Airton Félix Cirilo;0.9047619047619048
+Kiko Celeguim;José Guimarães;0.9113924050632911
+Kiko Celeguim;Lindbergh Farias;0.9113924050632911
+Kiko Celeguim;Luizianne Lins;0.9240506329113924
+Kiko Celeguim;Merlong Solano;0.9620253164556962
+Kiko Celeguim;Odair Cunha;0.9240506329113924
+Kiko Celeguim;Padre João;0.9493670886075949
+Kiko Celeguim;Pedro Uczai;0.9113924050632911
+Kiko Celeguim;Reginete Bispo;0.9014084507042254
+Kiko Celeguim;Reimont;0.9493670886075949
+Kiko Celeguim;Rogério Correia;0.9493670886075949
+Kiko Celeguim;Rubens Pereira Júnior;0.9493670886075949
+Kiko Celeguim;Rui Falcão;0.9240506329113924
+Kiko Celeguim;Vander Loubet;0.9113924050632911
+Kiko Celeguim;Zé Neto;0.9240506329113924
+Kiko Celeguim;Josias Gomes;0.9240506329113924
+Leonardo Monteiro;Alfredinho;0.9358974358974359
+Leonardo Monteiro;Ana Pimentel;0.9487179487179487
+Leonardo Monteiro;Arlindo Chinaglia;0.9487179487179487
+Leonardo Monteiro;Benedita da Silva;0.9743589743589743
+Leonardo Monteiro;Carlos Veras;0.9487179487179487
+Leonardo Monteiro;Carlos Zarattini;0.9358974358974359
+Leonardo Monteiro;Carol Dartora;0.9102564102564102
+Leonardo Monteiro;Delegada Adriana Accorsi;0.9487179487179487
+Leonardo Monteiro;Dilvanda Faro;0.9230769230769231
+Leonardo Monteiro;Dimas Gadelha;0.9102564102564102
+Leonardo Monteiro;Dr. Francisco;0.9487179487179487
+Leonardo Monteiro;Flávio Nogueira;0.9230769230769231
+Leonardo Monteiro;Florentino Neto;0.9102564102564102
+Leonardo Monteiro;Jack Rocha;0.9615384615384616
+Leonardo Monteiro;João Daniel;0.9358974358974359
+Leonardo Monteiro;Merlong Solano;0.9871794871794872
+Leonardo Monteiro;Nilto Tatto;0.9358974358974359
+Leonardo Monteiro;Padre João;0.9358974358974359
+Leonardo Monteiro;Paulão;0.9102564102564102
+Leonardo Monteiro;Reimont;0.9615384615384616
+Leonardo Monteiro;Rogério Correia;0.9487179487179487
+Leonardo Monteiro;Rubens Pereira Júnior;0.9230769230769231
+Leonardo Monteiro;Vicentinho;0.9230769230769231
+Luizianne Lins;Alfredinho;0.9506172839506173
+Luizianne Lins;Ana Pimentel;0.9259259259259259
+Luizianne Lins;Arlindo Chinaglia;0.9753086419753086
+Luizianne Lins;Benedita da Silva;0.9876543209876543
+Luizianne Lins;Bohn Gass;0.9012345679012346
+Luizianne Lins;Carlos Veras;0.9629629629629629
+Luizianne Lins;Carlos Zarattini;0.9135802469135802
+Luizianne Lins;Carol Dartora;0.9012345679012346
+Luizianne Lins;Delegada Adriana Accorsi;0.9382716049382716
+Luizianne Lins;Dilvanda Faro;0.9382716049382716
+Luizianne Lins;Dimas Gadelha;0.9506172839506173
+Luizianne Lins;Dr. Francisco;0.9506172839506173
+Luizianne Lins;Florentino Neto;0.9135802469135802
+Luizianne Lins;Helder Salomão;0.9135802469135802
+Luizianne Lins;Jack Rocha;0.9382716049382716
+Luizianne Lins;Jorge Solla;0.9382716049382716
+Luizianne Lins;José Airton Félix Cirilo;0.9365079365079365
+Luizianne Lins;José Guimarães;0.9382716049382716
+Luizianne Lins;Kiko Celeguim;0.9240506329113924
+Luizianne Lins;Lindbergh Farias;0.9012345679012346
+Luizianne Lins;Marcon;0.9135802469135802
+Luizianne Lins;Merlong Solano;0.9753086419753086
+Luizianne Lins;Odair Cunha;0.9012345679012346
+Luizianne Lins;Padre João;0.9506172839506173
+Luizianne Lins;Paulo Guedes;0.9012345679012346
+Luizianne Lins;Pedro Uczai;0.9135802469135802
+Luizianne Lins;Reginaldo Lopes;0.9090909090909091
+Luizianne Lins;Reginete Bispo;0.9154929577464789
+Luizianne Lins;Reimont;0.9629629629629629
+Luizianne Lins;Rogério Correia;0.9382716049382716
+Luizianne Lins;Rubens Pereira Júnior;0.9506172839506173
+Luizianne Lins;Rui Falcão;0.9135802469135802
+Luizianne Lins;Vander Loubet;0.9382716049382716
+Luizianne Lins;Zé Neto;0.9135802469135802
+Luizianne Lins;Fernando Mineiro;0.9125
+Luizianne Lins;Tadeu Veneri;0.9
+Luizianne Lins;Welter;0.9
+Luizianne Lins;Josias Gomes;0.9506172839506173
+Marcon;Alencar Santana;0.9135802469135802
+Marcon;Alfredinho;0.9506172839506173
+Marcon;Ana Pimentel;0.9135802469135802
+Marcon;Arlindo Chinaglia;0.9629629629629629
+Marcon;Benedita da Silva;0.9753086419753086
+Marcon;Carlos Veras;0.9629629629629629
+Marcon;Carlos Zarattini;0.9382716049382716
+Marcon;Carol Dartora;0.9135802469135802
+Marcon;Delegada Adriana Accorsi;0.9506172839506173
+Marcon;Dilvanda Faro;0.9382716049382716
+Marcon;Dimas Gadelha;0.9382716049382716
+Marcon;Dr. Francisco;0.9506172839506173
+Marcon;Florentino Neto;0.9259259259259259
+Marcon;Jack Rocha;0.9259259259259259
+Marcon;João Daniel;0.9125
+Marcon;Jorge Solla;0.9259259259259259
+Marcon;José Airton Félix Cirilo;0.9206349206349206
+Marcon;José Guimarães;0.9259259259259259
+Marcon;Joseildo Ramos;0.9125
+Marcon;Luizianne Lins;0.9135802469135802
+Marcon;Merlong Solano;0.9753086419753086
+Marcon;Odair Cunha;0.9012345679012346
+Marcon;Padre João;0.9506172839506173
+Marcon;Paulão;0.9135802469135802
+Marcon;Pedro Uczai;0.9135802469135802
+Marcon;Reginete Bispo;0.9014084507042254
+Marcon;Reimont;0.9753086419753086
+Marcon;Rogério Correia;0.9629629629629629
+Marcon;Rubens Pereira Júnior;0.9506172839506173
+Marcon;Rui Falcão;0.9259259259259259
+Marcon;Vander Loubet;0.9135802469135802
+Marcon;Washington Quaquá;0.9016393442622951
+Marcon;Zé Neto;0.9012345679012346
+Marcon;Zeca Dirceu;0.927536231884058
+Marcon;Dandara;0.9054054054054054
+Marcon;Fernando Mineiro;0.925
+Marcon;Josias Gomes;0.9382716049382716
+Marcon;Juliana Cardoso;0.9054054054054054
+Marcon;Welter;0.9
+Maria do Rosário;Alfredinho;0.9577464788732394
+Maria do Rosário;Ana Pimentel;0.9436619718309859
+Maria do Rosário;Arlindo Chinaglia;0.9577464788732394
+Maria do Rosário;Benedita da Silva;0.9577464788732394
+Maria do Rosário;Carlos Veras;0.9436619718309859
+Maria do Rosário;Carlos Zarattini;0.9154929577464789
+Maria do Rosário;Carol Dartora;0.9295774647887324
+Maria do Rosário;Delegada Adriana Accorsi;0.9154929577464789
+Maria do Rosário;Denise Pessôa;0.9154929577464789
+Maria do Rosário;Dilvanda Faro;0.9014084507042254
+Maria do Rosário;Dimas Gadelha;0.9436619718309859
+Maria do Rosário;Dr. Francisco;0.9436619718309859
+Maria do Rosário;Flávio Nogueira;0.9014084507042254
+Maria do Rosário;Helder Salomão;0.9014084507042254
+Maria do Rosário;Jack Rocha;0.9295774647887324
+Maria do Rosário;João Daniel;0.9154929577464789
+Maria do Rosário;Jorge Solla;0.9577464788732394
+Maria do Rosário;José Guimarães;0.9014084507042254
+Maria do Rosário;Merlong Solano;0.9436619718309859
+Maria do Rosário;Padre João;0.9154929577464789
+Maria do Rosário;Paulo Guedes;0.9014084507042254
+Maria do Rosário;Pedro Uczai;0.9014084507042254
+Maria do Rosário;Reimont;0.9577464788732394
+Maria do Rosário;Rogério Correia;0.9014084507042254
+Maria do Rosário;Rubens Pereira Júnior;0.9014084507042254
+Maria do Rosário;Rui Falcão;0.9154929577464789
+Maria do Rosário;Vander Loubet;0.9154929577464789
+Maria do Rosário;Vicentinho;0.9295774647887324
+Maria do Rosário;Zé Neto;0.9014084507042254
+Merlong Solano;Airton Faleiro;0.974025974025974
+Merlong Solano;Alfredinho;0.9761904761904762
+Merlong Solano;Ana Paula Lima;0.9736842105263158
+Merlong Solano;Ana Pimentel;0.9642857142857143
+Merlong Solano;Arlindo Chinaglia;0.9772727272727273
+Merlong Solano;Benedita da Silva;0.9887640449438202
+Merlong Solano;Bohn Gass;0.975609756097561
+Merlong Solano;Camila Jara;0.9878048780487805
+Merlong Solano;Carlos Veras;0.9130434782608695
+Merlong Solano;Carlos Zarattini;0.9647058823529412
+Merlong Solano;Carol Dartora;0.9876543209876543
+Merlong Solano;Delegada Adriana Accorsi;0.9764705882352941
+Merlong Solano;Denise Pessôa;0.9506172839506173
+Merlong Solano;Dilvanda Faro;0.9767441860465116
+Merlong Solano;Dimas Gadelha;0.9534883720930233
+Merlong Solano;Dr. Francisco;0.9770114942528736
+Merlong Solano;Florentino Neto;0.9764705882352941
+Merlong Solano;Ivoneide Caetano;0.9726027397260274
+Merlong Solano;Jack Rocha;0.9540229885057471
+Merlong Solano;Jilmar Tatto;0.9620253164556962
+Merlong Solano;João Daniel;0.9875
+Merlong Solano;Jorge Solla;0.975609756097561
+Merlong Solano;José Airton Félix Cirilo;0.9841269841269841
+Merlong Solano;Joseildo Ramos;1.0
+Merlong Solano;Kiko Celeguim;0.9620253164556962
+Merlong Solano;Leonardo Monteiro;0.9871794871794872
+Merlong Solano;Lindbergh Farias;0.9130434782608695
+Merlong Solano;Luizianne Lins;0.9753086419753086
+Merlong Solano;Marcon;0.9753086419753086
+Merlong Solano;Maria do Rosário;0.9436619718309859
+Merlong Solano;Natália Bonavides;0.9629629629629629
+Merlong Solano;Nilto Tatto;1.0
+Merlong Solano;Odair Cunha;0.9512195121951219
+Merlong Solano;Padre João;0.9438202247191011
+Merlong Solano;Paulão;0.9634146341463414
+Merlong Solano;Paulo Guedes;0.9753086419753086
+Merlong Solano;Pedro Uczai;0.9404761904761905
+Merlong Solano;Reginaldo Lopes;0.9393939393939394
+Merlong Solano;Reginete Bispo;0.9577464788732394
+Merlong Solano;Reimont;0.9770114942528736
+Merlong Solano;Rogério Correia;0.9767441860465116
+Merlong Solano;Rubens Pereira Júnior;0.9021739130434783
+Merlong Solano;Valmir Assunção;0.9367088607594937
+Merlong Solano;Vander Loubet;0.963855421686747
+Merlong Solano;Vicentinho;0.9629629629629629
+Merlong Solano;Waldenor Pereira;0.9423076923076923
+Merlong Solano;Washington Quaquá;0.9672131147540983
+Merlong Solano;Zé Neto;0.9753086419753086
+Merlong Solano;Zeca Dirceu;0.9710144927536232
+Merlong Solano;Alexandre Lindenmeyer;0.95
+Merlong Solano;Fernando Mineiro;0.9625
+Merlong Solano;Gleisi Hoffmann;0.926829268292683
+Merlong Solano;Juliana Cardoso;0.9864864864864865
+Merlong Solano;Tadeu Veneri;0.9625
+Merlong Solano;Welter;0.95
+Merlong Solano;Josias Gomes;0.9761904761904762
+Merlong Solano;Dandara;0.9594594594594594
+Natália Bonavides;Alencar Santana;0.9012345679012346
+Natália Bonavides;Alfredinho;0.9259259259259259
+Natália Bonavides;Ana Pimentel;0.9382716049382716
+Natália Bonavides;Arlindo Chinaglia;0.9629629629629629
+Natália Bonavides;Benedita da Silva;0.9753086419753086
+Natália Bonavides;Bohn Gass;0.9012345679012346
+Natália Bonavides;Carlos Veras;0.9382716049382716
+Natália Bonavides;Carlos Zarattini;0.9135802469135802
+Natália Bonavides;Carol Dartora;0.9012345679012346
+Natália Bonavides;Delegada Adriana Accorsi;0.9259259259259259
+Natália Bonavides;Dilvanda Faro;0.9259259259259259
+Natália Bonavides;Dimas Gadelha;0.9135802469135802
+Natália Bonavides;Dr. Francisco;0.9382716049382716
+Natália Bonavides;Flávio Nogueira;0.9259259259259259
+Natália Bonavides;Florentino Neto;0.9135802469135802
+Natália Bonavides;Helder Salomão;0.9259259259259259
+Natália Bonavides;Jack Rocha;0.9753086419753086
+Natália Bonavides;João Daniel;0.9125
+Natália Bonavides;José Airton Félix Cirilo;0.9047619047619048
+Natália Bonavides;José Guimarães;0.9012345679012346
+Natália Bonavides;Lindbergh Farias;0.9012345679012346
+Natália Bonavides;Merlong Solano;0.9629629629629629
+Natália Bonavides;Nilto Tatto;0.9125
+Natália Bonavides;Padre João;0.9629629629629629
+Natália Bonavides;Reginaldo Lopes;0.9090909090909091
+Natália Bonavides;Reimont;0.9259259259259259
+Natália Bonavides;Rogério Correia;0.9259259259259259
+Natália Bonavides;Rubens Pereira Júnior;0.9382716049382716
+Natália Bonavides;Vicentinho;0.9382716049382716
+Natália Bonavides;Zeca Dirceu;0.9130434782608695
+Natália Bonavides;Josias Gomes;0.9012345679012346
+Nilto Tatto;Airton Faleiro;0.9090909090909091
+Nilto Tatto;Alfredinho;0.925
+Nilto Tatto;Ana Pimentel;0.95
+Nilto Tatto;Arlindo Chinaglia;0.9625
+Nilto Tatto;Benedita da Silva;0.9875
+Nilto Tatto;Bohn Gass;0.9125
+Nilto Tatto;Carlos Veras;0.9375
+Nilto Tatto;Carlos Zarattini;0.925
+Nilto Tatto;Carol Dartora;0.925
+Nilto Tatto;Delegada Adriana Accorsi;0.9375
+Nilto Tatto;Dilvanda Faro;0.9375
+Nilto Tatto;Dimas Gadelha;0.925
+Nilto Tatto;Dr. Francisco;0.95
+Nilto Tatto;Flávio Nogueira;0.925
+Nilto Tatto;Florentino Neto;0.9
+Nilto Tatto;Helder Salomão;0.9
+Nilto Tatto;Jack Rocha;0.9625
+Nilto Tatto;João Daniel;0.9375
+Nilto Tatto;Joseildo Ramos;0.9
+Nilto Tatto;Leonardo Monteiro;0.9358974358974359
+Nilto Tatto;Lindbergh Farias;0.9125
+Nilto Tatto;Merlong Solano;1.0
+Nilto Tatto;Natália Bonavides;0.9125
+Nilto Tatto;Odair Cunha;0.9
+Nilto Tatto;Padre João;0.95
+Nilto Tatto;Paulão;0.9
+Nilto Tatto;Reimont;0.95
+Nilto Tatto;Rogério Correia;0.95
+Nilto Tatto;Rubens Pereira Júnior;0.95
+Nilto Tatto;Rui Falcão;0.9
+Nilto Tatto;Vicentinho;0.9125
+Nilto Tatto;Gleisi Hoffmann;0.9
+Nilto Tatto;Josias Gomes;0.9125
+Odair Cunha;Alfredinho;0.9390243902439024
+Odair Cunha;Ana Pimentel;0.926829268292683
+Odair Cunha;Arlindo Chinaglia;0.9512195121951219
+Odair Cunha;Benedita da Silva;0.9634146341463414
+Odair Cunha;Carlos Veras;0.9390243902439024
+Odair Cunha;Carlos Zarattini;0.9146341463414634
+Odair Cunha;Carol Dartora;0.9012345679012346
+Odair Cunha;Delegada Adriana Accorsi;0.926829268292683
+Odair Cunha;Dilvanda Faro;0.9146341463414634
+Odair Cunha;Dimas Gadelha;0.9390243902439024
+Odair Cunha;Dr. Francisco;0.926829268292683
+Odair Cunha;Flávio Nogueira;0.9024390243902439
+Odair Cunha;Florentino Neto;0.9024390243902439
+Odair Cunha;Jack Rocha;0.926829268292683
+Odair Cunha;João Daniel;0.9125
+Odair Cunha;Jorge Solla;0.9024390243902439
+Odair Cunha;José Airton Félix Cirilo;0.9206349206349206
+Odair Cunha;José Guimarães;0.9146341463414634
+Odair Cunha;Kiko Celeguim;0.9240506329113924
+Odair Cunha;Luizianne Lins;0.9012345679012346
+Odair Cunha;Marcon;0.9012345679012346
+Odair Cunha;Merlong Solano;0.9512195121951219
+Odair Cunha;Nilto Tatto;0.9
+Odair Cunha;Padre João;0.9390243902439024
+Odair Cunha;Reimont;0.926829268292683
+Odair Cunha;Rogério Correia;0.926829268292683
+Odair Cunha;Rubens Pereira Júnior;0.926829268292683
+Odair Cunha;Rui Falcão;0.926829268292683
+Odair Cunha;Washington Quaquá;0.9016393442622951
+Odair Cunha;Zé Neto;0.9012345679012346
+Odair Cunha;Zeca Dirceu;0.9130434782608695
+Odair Cunha;Josias Gomes;0.9146341463414634
+Padre João;Airton Faleiro;0.948051948051948
+Padre João;Alfredinho;0.9642857142857143
+Padre João;Ana Paula Lima;0.9342105263157895
+Padre João;Ana Pimentel;0.9523809523809523
+Padre João;Arlindo Chinaglia;0.9545454545454546
+Padre João;Benedita da Silva;0.9550561797752809
+Padre João;Bohn Gass;0.9390243902439024
+Padre João;Camila Jara;0.9024390243902439
+Padre João;Carlos Veras;0.9213483146067416
+Padre João;Carlos Zarattini;0.9411764705882353
+Padre João;Carol Dartora;0.9629629629629629
+Padre João;Delegada Adriana Accorsi;0.9529411764705882
+Padre João;Denise Pessôa;0.9259259259259259
+Padre João;Dilvanda Faro;0.9418604651162791
+Padre João;Dimas Gadelha;0.9302325581395349
+Padre João;Dr. Francisco;0.9425287356321839
+Padre João;Florentino Neto;0.9294117647058824
+Padre João;Ivoneide Caetano;0.9452054794520548
+Padre João;Jack Rocha;0.9425287356321839
+Padre João;João Daniel;0.975
+Padre João;Jorge Solla;0.9512195121951219
+Padre João;José Airton Félix Cirilo;0.9682539682539683
+Padre João;Joseildo Ramos;0.925
+Padre João;Kiko Celeguim;0.9493670886075949
+Padre João;Leonardo Monteiro;0.9358974358974359
+Padre João;Luizianne Lins;0.9506172839506173
+Padre João;Marcon;0.9506172839506173
+Padre João;Maria do Rosário;0.9154929577464789
+Padre João;Merlong Solano;0.9438202247191011
+Padre João;Natália Bonavides;0.9629629629629629
+Padre João;Nilto Tatto;0.95
+Padre João;Odair Cunha;0.9390243902439024
+Padre João;Paulão;0.9634146341463414
+Padre João;Paulo Guedes;0.9382716049382716
+Padre João;Pedro Uczai;0.9285714285714286
+Padre João;Reginaldo Lopes;0.9242424242424242
+Padre João;Reginete Bispo;0.9154929577464789
+Padre João;Reimont;0.9310344827586207
+Padre João;Rogério Correia;0.9418604651162791
+Padre João;Rubens Pereira Júnior;0.9101123595505618
+Padre João;Valmir Assunção;0.9367088607594937
+Padre João;Vander Loubet;0.9397590361445783
+Padre João;Vicentinho;0.9629629629629629
+Padre João;Waldenor Pereira;0.9230769230769231
+Padre João;Washington Quaquá;0.9180327868852459
+Padre João;Zé Neto;0.9506172839506173
+Padre João;Zeca Dirceu;0.9565217391304348
+Padre João;Fernando Mineiro;0.95
+Padre João;Gleisi Hoffmann;0.9146341463414634
+Padre João;Juliana Cardoso;0.9459459459459459
+Padre João;Tadeu Veneri;0.9125
+Padre João;Welter;0.9125
+Padre João;Josias Gomes;0.9404761904761905
+Padre João;Dandara;0.9324324324324325
+Padre João;Luiza Erundina;0.9230769230769231
+Pastor Henrique Vieira;Chico Alencar;0.9775280898876404
+Pastor Henrique Vieira;Erika Hilton;0.9692307692307692
+Pastor Henrique Vieira;Fernanda Melchionna;0.9146341463414634
+Pastor Henrique Vieira;Guilherme Boulos;0.9662921348314607
+Pastor Henrique Vieira;Ivan Valente;0.9642857142857143
+Pastor Henrique Vieira;Professora Luciene Cavalcante;0.9456521739130435
+Pastor Henrique Vieira;Talíria Petrone;0.9666666666666667
+Pastor Henrique Vieira;Tarcísio Motta;0.9157894736842105
+Pastor Henrique Vieira;Waldenor Pereira;0.9038461538461539
+Pastor Henrique Vieira;Célia Xakriabá;0.9746835443037974
+Pastor Henrique Vieira;Luiza Erundina;0.9230769230769231
+Paulão;Alfredinho;0.926829268292683
+Paulão;Ana Pimentel;0.9024390243902439
+Paulão;Arlindo Chinaglia;0.9390243902439024
+Paulão;Benedita da Silva;0.9634146341463414
+Paulão;Carlos Veras;0.9390243902439024
+Paulão;Carlos Zarattini;0.9390243902439024
+Paulão;Delegada Adriana Accorsi;0.9146341463414634
+Paulão;Dilvanda Faro;0.9146341463414634
+Paulão;Dimas Gadelha;0.9024390243902439
+Paulão;Dr. Francisco;0.9390243902439024
+Paulão;Florentino Neto;0.9024390243902439
+Paulão;Jack Rocha;0.926829268292683
+Paulão;João Daniel;0.9
+Paulão;José Airton Félix Cirilo;0.9047619047619048
+Paulão;Leonardo Monteiro;0.9102564102564102
+Paulão;Marcon;0.9135802469135802
+Paulão;Merlong Solano;0.9634146341463414
+Paulão;Nilto Tatto;0.9
+Paulão;Padre João;0.9634146341463414
+Paulão;Reimont;0.9390243902439024
+Paulão;Rogério Correia;0.926829268292683
+Paulão;Rubens Pereira Júnior;0.9390243902439024
+Paulão;Washington Quaquá;0.9016393442622951
+Paulão;Fernando Mineiro;0.9
+Paulo Guedes;Alfredinho;0.9259259259259259
+Paulo Guedes;Arlindo Chinaglia;0.9382716049382716
+Paulo Guedes;Benedita da Silva;0.9506172839506173
+Paulo Guedes;Carlos Veras;0.9259259259259259
+Paulo Guedes;Carol Dartora;0.9135802469135802
+Paulo Guedes;Delegada Adriana Accorsi;0.9012345679012346
+Paulo Guedes;Dilvanda Faro;0.9135802469135802
+Paulo Guedes;Dimas Gadelha;0.9012345679012346
+Paulo Guedes;Dr. Francisco;0.9135802469135802
+Paulo Guedes;Florentino Neto;0.9135802469135802
+Paulo Guedes;Jack Rocha;0.9135802469135802
+Paulo Guedes;Jorge Solla;0.9135802469135802
+Paulo Guedes;José Airton Félix Cirilo;0.9047619047619048
+Paulo Guedes;Lindbergh Farias;0.9135802469135802
+Paulo Guedes;Luizianne Lins;0.9012345679012346
+Paulo Guedes;Maria do Rosário;0.9014084507042254
+Paulo Guedes;Merlong Solano;0.9753086419753086
+Paulo Guedes;Padre João;0.9382716049382716
+Paulo Guedes;Reginaldo Lopes;0.9090909090909091
+Paulo Guedes;Reimont;0.9259259259259259
+Paulo Guedes;Rogério Correia;0.9135802469135802
+Paulo Guedes;Rubens Pereira Júnior;0.9135802469135802
+Paulo Guedes;Rui Falcão;0.9012345679012346
+Paulo Guedes;Waldenor Pereira;0.9038461538461539
+Paulo Guedes;Zé Neto;0.9012345679012346
+Paulo Guedes;Zeca Dirceu;0.9130434782608695
+Paulo Guedes;Josias Gomes;0.9012345679012346
+Pedro Uczai;Alfredinho;0.9285714285714286
+Pedro Uczai;Arlindo Chinaglia;0.9642857142857143
+Pedro Uczai;Benedita da Silva;0.9523809523809523
+Pedro Uczai;Carlos Veras;0.9285714285714286
+Pedro Uczai;Carlos Zarattini;0.9047619047619048
+Pedro Uczai;Carol Dartora;0.9135802469135802
+Pedro Uczai;Delegada Adriana Accorsi;0.9166666666666666
+Pedro Uczai;Denise Pessôa;0.9012345679012346
+Pedro Uczai;Dilvanda Faro;0.9047619047619048
+Pedro Uczai;Dimas Gadelha;0.9047619047619048
+Pedro Uczai;Dr. Francisco;0.9404761904761905
+Pedro Uczai;Ivoneide Caetano;0.9041095890410958
+Pedro Uczai;Jack Rocha;0.9047619047619048
+Pedro Uczai;João Daniel;0.9
+Pedro Uczai;Jorge Solla;0.9146341463414634
+Pedro Uczai;Joseildo Ramos;0.9
+Pedro Uczai;Kiko Celeguim;0.9113924050632911
+Pedro Uczai;Luizianne Lins;0.9135802469135802
+Pedro Uczai;Marcon;0.9135802469135802
+Pedro Uczai;Maria do Rosário;0.9014084507042254
+Pedro Uczai;Merlong Solano;0.9404761904761905
+Pedro Uczai;Padre João;0.9285714285714286
+Pedro Uczai;Reginete Bispo;0.9295774647887324
+Pedro Uczai;Reimont;0.9285714285714286
+Pedro Uczai;Rogério Correia;0.9047619047619048
+Pedro Uczai;Rubens Pereira Júnior;0.9285714285714286
+Pedro Uczai;Zé Neto;0.9012345679012346
+Pedro Uczai;Zeca Dirceu;0.9130434782608695
+Pedro Uczai;Fernando Mineiro;0.9375
+Professora Luciene Cavalcante;Chico Alencar;0.9775280898876404
+Professora Luciene Cavalcante;Erika Hilton;0.9846153846153847
+Professora Luciene Cavalcante;Fernanda Melchionna;0.926829268292683
+Professora Luciene Cavalcante;Guilherme Boulos;0.9550561797752809
+Professora Luciene Cavalcante;Ivan Valente;0.9761904761904762
+Professora Luciene Cavalcante;Pastor Henrique Vieira;0.9456521739130435
+Professora Luciene Cavalcante;Talíria Petrone;0.9833333333333333
+Professora Luciene Cavalcante;Tarcísio Motta;0.9565217391304348
+Professora Luciene Cavalcante;Waldenor Pereira;0.9038461538461539
+Professora Luciene Cavalcante;Célia Xakriabá;0.9746835443037974
+Professora Luciene Cavalcante;Luiza Erundina;0.9230769230769231
+Reginaldo Lopes;Alfredinho;0.9545454545454546
+Reginaldo Lopes;Ana Pimentel;0.9242424242424242
+Reginaldo Lopes;Arlindo Chinaglia;0.9393939393939394
+Reginaldo Lopes;Benedita da Silva;0.9393939393939394
+Reginaldo Lopes;Carlos Veras;0.9545454545454546
+Reginaldo Lopes;Carlos Zarattini;0.9090909090909091
+Reginaldo Lopes;Carol Dartora;0.9242424242424242
+Reginaldo Lopes;Delegada Adriana Accorsi;0.9242424242424242
+Reginaldo Lopes;Dilvanda Faro;0.9090909090909091
+Reginaldo Lopes;Dr. Francisco;0.9393939393939394
+Reginaldo Lopes;Flávio Nogueira;0.9090909090909091
+Reginaldo Lopes;Helder Salomão;0.9393939393939394
+Reginaldo Lopes;Jack Rocha;0.9696969696969697
+Reginaldo Lopes;João Daniel;0.9090909090909091
+Reginaldo Lopes;Jorge Solla;0.9545454545454546
+Reginaldo Lopes;José Guimarães;0.9090909090909091
+Reginaldo Lopes;Luizianne Lins;0.9090909090909091
+Reginaldo Lopes;Merlong Solano;0.9393939393939394
+Reginaldo Lopes;Natália Bonavides;0.9090909090909091
+Reginaldo Lopes;Padre João;0.9242424242424242
+Reginaldo Lopes;Paulo Guedes;0.9090909090909091
+Reginaldo Lopes;Reimont;0.9393939393939394
+Reginaldo Lopes;Rogério Correia;0.9393939393939394
+Reginaldo Lopes;Rui Falcão;0.9090909090909091
+Reginaldo Lopes;Vander Loubet;0.9090909090909091
+Reginaldo Lopes;Vicentinho;0.9090909090909091
+Reginaldo Lopes;Zé Neto;0.9090909090909091
+Reginaldo Lopes;Tadeu Veneri;0.9090909090909091
+Reginete Bispo;Alfredinho;0.9295774647887324
+Reginete Bispo;Ana Pimentel;0.9014084507042254
+Reginete Bispo;Arlindo Chinaglia;0.9436619718309859
+Reginete Bispo;Benedita da Silva;0.9436619718309859
+Reginete Bispo;Bohn Gass;0.9295774647887324
+Reginete Bispo;Carlos Veras;0.9295774647887324
+Reginete Bispo;Carlos Zarattini;0.9295774647887324
+Reginete Bispo;Delegada Adriana Accorsi;0.9154929577464789
+Reginete Bispo;Dilvanda Faro;0.9295774647887324
+Reginete Bispo;Dimas Gadelha;0.9154929577464789
+Reginete Bispo;Dr. Francisco;0.9295774647887324
+Reginete Bispo;Erika Kokay;0.9014084507042254
+Reginete Bispo;Helder Salomão;0.9154929577464789
+Reginete Bispo;Jack Rocha;0.9295774647887324
+Reginete Bispo;Jorge Solla;0.9154929577464789
+Reginete Bispo;Kiko Celeguim;0.9014084507042254
+Reginete Bispo;Luizianne Lins;0.9154929577464789
+Reginete Bispo;Marcon;0.9014084507042254
+Reginete Bispo;Merlong Solano;0.9577464788732394
+Reginete Bispo;Padre João;0.9154929577464789
+Reginete Bispo;Pedro Uczai;0.9295774647887324
+Reginete Bispo;Reimont;0.971830985915493
+Reginete Bispo;Rogério Correia;0.9154929577464789
+Reginete Bispo;Rubens Pereira Júnior;0.9154929577464789
+Reginete Bispo;Rui Falcão;0.9014084507042254
+Reginete Bispo;Zé Neto;0.9154929577464789
+Reginete Bispo;Fernando Mineiro;0.9014084507042254
+Reginete Bispo;Josias Gomes;0.9014084507042254
+Reimont;Airton Faleiro;0.948051948051948
+Reimont;Alfredinho;0.9761904761904762
+Reimont;Ana Paula Lima;0.9342105263157895
+Reimont;Ana Pimentel;0.9404761904761905
+Reimont;Arlindo Chinaglia;0.9655172413793104
+Reimont;Benedita da Silva;0.9655172413793104
+Reimont;Bohn Gass;0.9634146341463414
+Reimont;Camila Jara;0.9024390243902439
+Reimont;Carlos Veras;0.9540229885057471
+Reimont;Carlos Zarattini;0.9647058823529412
+Reimont;Carol Dartora;0.9629629629629629
+Reimont;Delegada Adriana Accorsi;0.9529411764705882
+Reimont;Denise Pessôa;0.9259259259259259
+Reimont;Dilvanda Faro;0.9418604651162791
+Reimont;Dimas Gadelha;0.9534883720930233
+Reimont;Dr. Francisco;0.9655172413793104
+Reimont;Florentino Neto;0.9176470588235294
+Reimont;Ivoneide Caetano;0.9315068493150684
+Reimont;Jack Rocha;0.9195402298850575
+Reimont;Jilmar Tatto;0.9113924050632911
+Reimont;João Daniel;0.95
+Reimont;Jorge Solla;0.975609756097561
+Reimont;José Airton Félix Cirilo;0.9523809523809523
+Reimont;José Guimarães;0.9080459770114943
+Reimont;Joseildo Ramos;0.95
+Reimont;Kiko Celeguim;0.9493670886075949
+Reimont;Leonardo Monteiro;0.9615384615384616
+Reimont;Luizianne Lins;0.9629629629629629
+Reimont;Marcon;0.9753086419753086
+Reimont;Maria do Rosário;0.9577464788732394
+Reimont;Merlong Solano;0.9770114942528736
+Reimont;Natália Bonavides;0.9259259259259259
+Reimont;Nilto Tatto;0.95
+Reimont;Odair Cunha;0.926829268292683
+Reimont;Padre João;0.9310344827586207
+Reimont;Paulão;0.9390243902439024
+Reimont;Paulo Guedes;0.9259259259259259
+Reimont;Pedro Uczai;0.9285714285714286
+Reimont;Reginaldo Lopes;0.9393939393939394
+Reimont;Reginete Bispo;0.971830985915493
+Reimont;Rogério Correia;0.9418604651162791
+Reimont;Rubens Pereira Júnior;0.9195402298850575
+Reimont;Rui Falcão;0.9195402298850575
+Reimont;Valmir Assunção;0.9113924050632911
+Reimont;Vander Loubet;0.9518072289156626
+Reimont;Vicentinho;0.9629629629629629
+Reimont;Waldenor Pereira;0.9230769230769231
+Reimont;Washington Quaquá;0.9672131147540983
+Reimont;Zé Neto;0.9629629629629629
+Reimont;Zeca Dirceu;0.9855072463768116
+Reimont;Alexandre Lindenmeyer;0.925
+Reimont;Fernando Mineiro;0.9625
+Reimont;Juliana Cardoso;0.9594594594594594
+Reimont;Tadeu Veneri;0.925
+Reimont;Welter;0.975
+Reimont;Josias Gomes;0.9285714285714286
+Reimont;Dandara;0.9324324324324325
+Reimont;Luiza Erundina;0.9615384615384616
+Rogério Correia;Airton Faleiro;0.948051948051948
+Rogério Correia;Alfredinho;0.9404761904761905
+Rogério Correia;Ana Paula Lima;0.9342105263157895
+Rogério Correia;Ana Pimentel;0.9285714285714286
+Rogério Correia;Arlindo Chinaglia;0.9651162790697675
+Rogério Correia;Benedita da Silva;0.9767441860465116
+Rogério Correia;Bohn Gass;0.9512195121951219
+Rogério Correia;Camila Jara;0.9024390243902439
+Rogério Correia;Carlos Veras;0.9418604651162791
+Rogério Correia;Carlos Zarattini;0.9411764705882353
+Rogério Correia;Carol Dartora;0.9629629629629629
+Rogério Correia;Delegada Adriana Accorsi;0.9529411764705882
+Rogério Correia;Denise Pessôa;0.9259259259259259
+Rogério Correia;Dilvanda Faro;0.9534883720930233
+Rogério Correia;Dimas Gadelha;0.9186046511627907
+Rogério Correia;Dr. Francisco;0.9651162790697675
+Rogério Correia;Florentino Neto;0.9058823529411765
+Rogério Correia;Ivoneide Caetano;0.9452054794520548
+Rogério Correia;Jack Rocha;0.9418604651162791
+Rogério Correia;Jilmar Tatto;0.9113924050632911
+Rogério Correia;João Daniel;0.9625
+Rogério Correia;Jorge Solla;0.9512195121951219
+Rogério Correia;José Airton Félix Cirilo;0.9365079365079365
+Rogério Correia;Joseildo Ramos;0.9375
+Rogério Correia;Kiko Celeguim;0.9493670886075949
+Rogério Correia;Leonardo Monteiro;0.9487179487179487
+Rogério Correia;Luizianne Lins;0.9382716049382716
+Rogério Correia;Marcon;0.9629629629629629
+Rogério Correia;Maria do Rosário;0.9014084507042254
+Rogério Correia;Merlong Solano;0.9767441860465116
+Rogério Correia;Natália Bonavides;0.9259259259259259
+Rogério Correia;Nilto Tatto;0.95
+Rogério Correia;Odair Cunha;0.926829268292683
+Rogério Correia;Padre João;0.9418604651162791
+Rogério Correia;Paulão;0.926829268292683
+Rogério Correia;Paulo Guedes;0.9135802469135802
+Rogério Correia;Pedro Uczai;0.9047619047619048
+Rogério Correia;Reginaldo Lopes;0.9393939393939394
+Rogério Correia;Reginete Bispo;0.9154929577464789
+Rogério Correia;Reimont;0.9418604651162791
+Rogério Correia;Rubens Pereira Júnior;0.9418604651162791
+Rogério Correia;Vander Loubet;0.927710843373494
+Rogério Correia;Vicentinho;0.9382716049382716
+Rogério Correia;Waldenor Pereira;0.9038461538461539
+Rogério Correia;Washington Quaquá;0.9344262295081968
+Rogério Correia;Zé Neto;0.9506172839506173
+Rogério Correia;Zeca Dirceu;0.9565217391304348
+Rogério Correia;Alexandre Lindenmeyer;0.9125
+Rogério Correia;Fernando Mineiro;0.925
+Rogério Correia;Juliana Cardoso;0.9459459459459459
+Rogério Correia;Tadeu Veneri;0.9375
+Rogério Correia;Welter;0.925
+Rogério Correia;Dandara;0.9459459459459459
+Rogério Correia;Josias Gomes;0.9285714285714286
+Rogério Correia;Luiza Erundina;0.9230769230769231
+Talíria Petrone;Chico Alencar;1.0
+Talíria Petrone;Guilherme Boulos;0.9833333333333333
+Talíria Petrone;Ivan Valente;0.9
+Talíria Petrone;Pastor Henrique Vieira;0.9666666666666667
+Talíria Petrone;Professora Luciene Cavalcante;0.9833333333333333
+Talíria Petrone;Tarcísio Motta;0.9833333333333333
+Talíria Petrone;Célia Xakriabá;0.9
+Valmir Assunção;Arlindo Chinaglia;0.9113924050632911
+Valmir Assunção;Benedita da Silva;0.9240506329113924
+Valmir Assunção;Merlong Solano;0.9367088607594937
+Valmir Assunção;Padre João;0.9367088607594937
+Valmir Assunção;Reimont;0.9113924050632911
+Vander Loubet;Alfredinho;0.9397590361445783
+Vander Loubet;Ana Pimentel;0.927710843373494
+Vander Loubet;Arlindo Chinaglia;0.963855421686747
+Vander Loubet;Benedita da Silva;0.9759036144578314
+Vander Loubet;Carlos Veras;0.963855421686747
+Vander Loubet;Carlos Zarattini;0.9156626506024096
+Vander Loubet;Carol Dartora;0.9012345679012346
+Vander Loubet;Delegada Adriana Accorsi;0.9397590361445783
+Vander Loubet;Dilvanda Faro;0.927710843373494
+Vander Loubet;Dimas Gadelha;0.927710843373494
+Vander Loubet;Dr. Francisco;0.9397590361445783
+Vander Loubet;Florentino Neto;0.9036144578313253
+Vander Loubet;Jack Rocha;0.927710843373494
+Vander Loubet;João Daniel;0.9125
+Vander Loubet;Jorge Solla;0.9634146341463414
+Vander Loubet;José Airton Félix Cirilo;0.9523809523809523
+Vander Loubet;José Guimarães;0.9156626506024096
+Vander Loubet;Kiko Celeguim;0.9113924050632911
+Vander Loubet;Lindbergh Farias;0.9036144578313253
+Vander Loubet;Luizianne Lins;0.9382716049382716
+Vander Loubet;Marcon;0.9135802469135802
+Vander Loubet;Maria do Rosário;0.9154929577464789
+Vander Loubet;Merlong Solano;0.963855421686747
+Vander Loubet;Padre João;0.9397590361445783
+Vander Loubet;Reginaldo Lopes;0.9090909090909091
+Vander Loubet;Reimont;0.9518072289156626
+Vander Loubet;Rogério Correia;0.927710843373494
+Vander Loubet;Rubens Pereira Júnior;0.927710843373494
+Vander Loubet;Vicentinho;0.9012345679012346
+Vander Loubet;Waldenor Pereira;0.9230769230769231
+Vander Loubet;Zé Neto;0.9135802469135802
+Vander Loubet;Fernando Mineiro;0.9125
+Vander Loubet;Juliana Cardoso;0.918918918918919
+Vander Loubet;Welter;0.9
+Vander Loubet;Josias Gomes;0.9036144578313253
+Vander Loubet;Luiza Erundina;0.9230769230769231
+Vicentinho;Airton Faleiro;0.9090909090909091
+Vicentinho;Alfredinho;0.9382716049382716
+Vicentinho;Ana Pimentel;0.9506172839506173
+Vicentinho;Arlindo Chinaglia;0.9753086419753086
+Vicentinho;Benedita da Silva;0.9753086419753086
+Vicentinho;Bohn Gass;0.9259259259259259
+Vicentinho;Carlos Veras;0.9506172839506173
+Vicentinho;Carlos Zarattini;0.9506172839506173
+Vicentinho;Carol Dartora;0.9135802469135802
+Vicentinho;Delegada Adriana Accorsi;0.9259259259259259
+Vicentinho;Denise Pessôa;0.9012345679012346
+Vicentinho;Dilvanda Faro;0.9259259259259259
+Vicentinho;Dimas Gadelha;0.9382716049382716
+Vicentinho;Dr. Francisco;0.9753086419753086
+Vicentinho;Flávio Nogueira;0.9382716049382716
+Vicentinho;Florentino Neto;0.9012345679012346
+Vicentinho;Helder Salomão;0.9382716049382716
+Vicentinho;Jack Rocha;0.9753086419753086
+Vicentinho;João Daniel;0.925
+Vicentinho;Jorge Solla;0.9012345679012346
+Vicentinho;José Airton Félix Cirilo;0.9047619047619048
+Vicentinho;José Guimarães;0.9012345679012346
+Vicentinho;Leonardo Monteiro;0.9230769230769231
+Vicentinho;Maria do Rosário;0.9295774647887324
+Vicentinho;Merlong Solano;0.9629629629629629
+Vicentinho;Natália Bonavides;0.9382716049382716
+Vicentinho;Nilto Tatto;0.9125
+Vicentinho;Padre João;0.9629629629629629
+Vicentinho;Reginaldo Lopes;0.9090909090909091
+Vicentinho;Reimont;0.9629629629629629
+Vicentinho;Rogério Correia;0.9382716049382716
+Vicentinho;Rubens Pereira Júnior;0.9259259259259259
+Vicentinho;Rui Falcão;0.9135802469135802
+Vicentinho;Vander Loubet;0.9012345679012346
+Vicentinho;Washington Quaquá;0.9016393442622951
+Vicentinho;Zé Neto;0.9012345679012346
+Vicentinho;Zeca Dirceu;0.927536231884058
+Vicentinho;Welter;0.9
+Vicentinho;Josias Gomes;0.9012345679012346
+Vicentinho;Luiza Erundina;0.9615384615384616
+Waldenor Pereira;Alfredinho;0.9230769230769231
+Waldenor Pereira;Arlindo Chinaglia;0.9230769230769231
+Waldenor Pereira;Benedita da Silva;0.9423076923076923
+Waldenor Pereira;Carlos Veras;0.9230769230769231
+Waldenor Pereira;Denise Pessôa;0.9230769230769231
+Waldenor Pereira;Dilvanda Faro;0.9423076923076923
+Waldenor Pereira;Dr. Francisco;0.9230769230769231
+Waldenor Pereira;Erika Kokay;0.9615384615384616
+Waldenor Pereira;Helder Salomão;0.9230769230769231
+Waldenor Pereira;Jack Rocha;0.9038461538461539
+Waldenor Pereira;Jorge Solla;0.9423076923076923
+Waldenor Pereira;José Guimarães;0.9038461538461539
+Waldenor Pereira;Merlong Solano;0.9423076923076923
+Waldenor Pereira;Padre João;0.9230769230769231
+Waldenor Pereira;Pastor Henrique Vieira;0.9038461538461539
+Waldenor Pereira;Paulo Guedes;0.9038461538461539
+Waldenor Pereira;Professora Luciene Cavalcante;0.9038461538461539
+Waldenor Pereira;Reimont;0.9230769230769231
+Waldenor Pereira;Rogério Correia;0.9038461538461539
+Waldenor Pereira;Tarcísio Motta;0.9038461538461539
+Waldenor Pereira;Vander Loubet;0.9230769230769231
+Waldenor Pereira;Zé Neto;0.9038461538461539
+Washington Quaquá;Alencar Santana;0.9016393442622951
+Washington Quaquá;Alfredinho;0.9180327868852459
+Washington Quaquá;Ana Pimentel;0.9016393442622951
+Washington Quaquá;Arlindo Chinaglia;0.9508196721311475
+Washington Quaquá;Benedita da Silva;0.9672131147540983
+Washington Quaquá;Carlos Veras;0.9180327868852459
+Washington Quaquá;Carlos Zarattini;0.9508196721311475
+Washington Quaquá;Delegada Adriana Accorsi;0.9180327868852459
+Washington Quaquá;Dilvanda Faro;0.9180327868852459
+Washington Quaquá;Dimas Gadelha;0.9672131147540983
+Washington Quaquá;Dr. Francisco;0.9672131147540983
+Washington Quaquá;Ivoneide Caetano;0.9344262295081968
+Washington Quaquá;Jack Rocha;0.9016393442622951
+Washington Quaquá;José Guimarães;0.9180327868852459
+Washington Quaquá;Joseildo Ramos;0.9016393442622951
+Washington Quaquá;Marcon;0.9016393442622951
+Washington Quaquá;Merlong Solano;0.9672131147540983
+Washington Quaquá;Odair Cunha;0.9016393442622951
+Washington Quaquá;Padre João;0.9180327868852459
+Washington Quaquá;Paulão;0.9016393442622951
+Washington Quaquá;Reimont;0.9672131147540983
+Washington Quaquá;Rogério Correia;0.9344262295081968
+Washington Quaquá;Rubens Otoni;0.9016393442622951
+Washington Quaquá;Rubens Pereira Júnior;0.9180327868852459
+Washington Quaquá;Rui Falcão;0.9180327868852459
+Washington Quaquá;Vicentinho;0.9016393442622951
+Washington Quaquá;Luiza Erundina;0.9230769230769231
+Zé Neto;Alfredinho;0.9629629629629629
+Zé Neto;Ana Pimentel;0.9259259259259259
+Zé Neto;Arlindo Chinaglia;0.9629629629629629
+Zé Neto;Benedita da Silva;0.9753086419753086
+Zé Neto;Carlos Veras;0.9629629629629629
+Zé Neto;Carlos Zarattini;0.9382716049382716
+Zé Neto;Carol Dartora;0.9012345679012346
+Zé Neto;Delegada Adriana Accorsi;0.9382716049382716
+Zé Neto;Dilvanda Faro;0.9382716049382716
+Zé Neto;Dimas Gadelha;0.9382716049382716
+Zé Neto;Dr. Francisco;0.9506172839506173
+Zé Neto;Flávio Nogueira;0.9012345679012346
+Zé Neto;Florentino Neto;0.9135802469135802
+Zé Neto;Helder Salomão;0.9135802469135802
+Zé Neto;Jack Rocha;0.9506172839506173
+Zé Neto;Jorge Solla;0.9506172839506173
+Zé Neto;José Airton Félix Cirilo;0.9206349206349206
+Zé Neto;José Guimarães;0.9506172839506173
+Zé Neto;Joseildo Ramos;0.9
+Zé Neto;Kiko Celeguim;0.9240506329113924
+Zé Neto;Luizianne Lins;0.9135802469135802
+Zé Neto;Marcon;0.9012345679012346
+Zé Neto;Maria do Rosário;0.9014084507042254
+Zé Neto;Merlong Solano;0.9753086419753086
+Zé Neto;Odair Cunha;0.9012345679012346
+Zé Neto;Padre João;0.9506172839506173
+Zé Neto;Paulo Guedes;0.9012345679012346
+Zé Neto;Pedro Uczai;0.9012345679012346
+Zé Neto;Reginaldo Lopes;0.9090909090909091
+Zé Neto;Reginete Bispo;0.9154929577464789
+Zé Neto;Reimont;0.9629629629629629
+Zé Neto;Rogério Correia;0.9506172839506173
+Zé Neto;Rubens Pereira Júnior;0.9259259259259259
+Zé Neto;Rui Falcão;0.9135802469135802
+Zé Neto;Vander Loubet;0.9135802469135802
+Zé Neto;Vicentinho;0.9012345679012346
+Zé Neto;Waldenor Pereira;0.9038461538461539
+Zé Neto;Zeca Dirceu;0.927536231884058
+Zé Neto;Fernando Mineiro;0.9125
+Zé Neto;Welter;0.9
+Zé Neto;Josias Gomes;0.9012345679012346
+Zeca Dirceu;Alencar Santana;0.9130434782608695
+Zeca Dirceu;Alfredinho;0.9710144927536232
+Zeca Dirceu;Ana Pimentel;0.9130434782608695
+Zeca Dirceu;Arlindo Chinaglia;0.9855072463768116
+Zeca Dirceu;Benedita da Silva;0.9710144927536232
+Zeca Dirceu;Bohn Gass;0.9130434782608695
+Zeca Dirceu;Carlos Veras;0.9710144927536232
+Zeca Dirceu;Carlos Zarattini;0.9420289855072463
+Zeca Dirceu;Carol Dartora;0.927536231884058
+Zeca Dirceu;Delegada Adriana Accorsi;0.9420289855072463
+Zeca Dirceu;Dilvanda Faro;0.927536231884058
+Zeca Dirceu;Dimas Gadelha;0.9565217391304348
+Zeca Dirceu;Dr. Francisco;0.9855072463768116
+Zeca Dirceu;Florentino Neto;0.9130434782608695
+Zeca Dirceu;Helder Salomão;0.9420289855072463
+Zeca Dirceu;Jack Rocha;0.927536231884058
+Zeca Dirceu;Jorge Solla;0.927536231884058
+Zeca Dirceu;José Guimarães;0.9565217391304348
+Zeca Dirceu;Joseildo Ramos;0.9130434782608695
+Zeca Dirceu;Marcon;0.927536231884058
+Zeca Dirceu;Merlong Solano;0.9710144927536232
+Zeca Dirceu;Natália Bonavides;0.9130434782608695
+Zeca Dirceu;Odair Cunha;0.9130434782608695
+Zeca Dirceu;Padre João;0.9565217391304348
+Zeca Dirceu;Paulo Guedes;0.9130434782608695
+Zeca Dirceu;Pedro Uczai;0.9130434782608695
+Zeca Dirceu;Reimont;0.9855072463768116
+Zeca Dirceu;Rogério Correia;0.9565217391304348
+Zeca Dirceu;Rubens Pereira Júnior;0.927536231884058
+Zeca Dirceu;Rui Falcão;0.9420289855072463
+Zeca Dirceu;Vicentinho;0.927536231884058
+Zeca Dirceu;Zé Neto;0.927536231884058
+Zeca Dirceu;Welter;0.927536231884058
+Zeca Dirceu;Josias Gomes;0.9130434782608695
+Alexandre Lindenmeyer;Arlindo Chinaglia;0.9375
+Alexandre Lindenmeyer;Benedita da Silva;0.9375
+Alexandre Lindenmeyer;Bohn Gass;0.9
+Alexandre Lindenmeyer;Carlos Veras;0.9
+Alexandre Lindenmeyer;Carlos Zarattini;0.9
+Alexandre Lindenmeyer;Denise Pessôa;0.9
+Alexandre Lindenmeyer;Dilvanda Faro;0.9
+Alexandre Lindenmeyer;Dimas Gadelha;0.9
+Alexandre Lindenmeyer;Dr. Francisco;0.95
+Alexandre Lindenmeyer;Jack Rocha;0.9375
+Alexandre Lindenmeyer;Merlong Solano;0.95
+Alexandre Lindenmeyer;Reimont;0.925
+Alexandre Lindenmeyer;Rogério Correia;0.9125
+Alexandre Lindenmeyer;Rubens Pereira Júnior;0.9
+Fernando Mineiro;Alfredinho;0.95
+Fernando Mineiro;Ana Pimentel;0.9125
+Fernando Mineiro;Arlindo Chinaglia;0.9625
+Fernando Mineiro;Benedita da Silva;0.975
+Fernando Mineiro;Carlos Veras;0.9625
+Fernando Mineiro;Carlos Zarattini;0.9375
+Fernando Mineiro;Delegada Adriana Accorsi;0.9375
+Fernando Mineiro;Dilvanda Faro;0.925
+Fernando Mineiro;Dimas Gadelha;0.925
+Fernando Mineiro;Dr. Francisco;0.9375
+Fernando Mineiro;Jack Rocha;0.9375
+Fernando Mineiro;Jorge Solla;0.925
+Fernando Mineiro;José Guimarães;0.9125
+Fernando Mineiro;Juliana Cardoso;0.9054054054054054
+Fernando Mineiro;Luizianne Lins;0.9125
+Fernando Mineiro;Merlong Solano;0.9625
+Fernando Mineiro;Padre João;0.95
+Fernando Mineiro;Paulão;0.9
+Fernando Mineiro;Pedro Uczai;0.9375
+Fernando Mineiro;Reginete Bispo;0.9014084507042254
+Fernando Mineiro;Reimont;0.9625
+Fernando Mineiro;Rogério Correia;0.925
+Fernando Mineiro;Rubens Pereira Júnior;0.95
+Fernando Mineiro;Rui Falcão;0.9
+Fernando Mineiro;Vander Loubet;0.9125
+Fernando Mineiro;Zé Neto;0.9125
+Fernando Mineiro;Florentino Neto;0.9125
+Fernando Mineiro;Josias Gomes;0.925
+Fernando Mineiro;Marcon;0.925
+Gleisi Hoffmann;Ana Pimentel;0.9024390243902439
+Gleisi Hoffmann;Arlindo Chinaglia;0.9146341463414634
+Gleisi Hoffmann;Benedita da Silva;0.9390243902439024
+Gleisi Hoffmann;Carlos Veras;0.926829268292683
+Gleisi Hoffmann;Flávio Nogueira;0.9390243902439024
+Gleisi Hoffmann;Helder Salomão;0.9390243902439024
+Gleisi Hoffmann;Jack Rocha;0.9024390243902439
+Gleisi Hoffmann;João Daniel;0.9
+Gleisi Hoffmann;Merlong Solano;0.926829268292683
+Gleisi Hoffmann;Nilto Tatto;0.9
+Gleisi Hoffmann;Padre João;0.9146341463414634
+Gleisi Hoffmann;Rubens Pereira Júnior;0.9390243902439024
+Gleisi Hoffmann;Rui Falcão;0.9024390243902439
+Gleisi Hoffmann;José Airton Félix Cirilo;0.9206349206349206
+Juliana Cardoso;Alencar Santana;0.9054054054054054
+Juliana Cardoso;Alfredinho;0.918918918918919
+Juliana Cardoso;Ana Pimentel;0.918918918918919
+Juliana Cardoso;Arlindo Chinaglia;0.9594594594594594
+Juliana Cardoso;Benedita da Silva;0.972972972972973
+Juliana Cardoso;Bohn Gass;0.9054054054054054
+Juliana Cardoso;Carlos Veras;0.9459459459459459
+Juliana Cardoso;Carlos Zarattini;0.9324324324324325
+Juliana Cardoso;Carol Dartora;0.9054054054054054
+Juliana Cardoso;Delegada Adriana Accorsi;0.9459459459459459
+Juliana Cardoso;Dilvanda Faro;0.9324324324324325
+Juliana Cardoso;Dimas Gadelha;0.918918918918919
+Juliana Cardoso;Dr. Francisco;0.9459459459459459
+Juliana Cardoso;Fernando Mineiro;0.9054054054054054
+Juliana Cardoso;Flávio Nogueira;0.9054054054054054
+Juliana Cardoso;Jack Rocha;0.918918918918919
+Juliana Cardoso;João Daniel;0.9054054054054054
+Juliana Cardoso;Jorge Solla;0.9054054054054054
+Juliana Cardoso;Lindbergh Farias;0.9054054054054054
+Juliana Cardoso;Merlong Solano;0.9864864864864865
+Juliana Cardoso;Padre João;0.9459459459459459
+Juliana Cardoso;Reimont;0.9594594594594594
+Juliana Cardoso;Rogério Correia;0.9459459459459459
+Juliana Cardoso;Rubens Pereira Júnior;0.9324324324324325
+Juliana Cardoso;Vander Loubet;0.918918918918919
+Juliana Cardoso;Florentino Neto;0.9054054054054054
+Juliana Cardoso;Josias Gomes;0.918918918918919
+Juliana Cardoso;Marcon;0.9054054054054054
+Tadeu Veneri;Ana Pimentel;0.9
+Tadeu Veneri;Arlindo Chinaglia;0.9375
+Tadeu Veneri;Benedita da Silva;0.95
+Tadeu Veneri;Bohn Gass;0.9
+Tadeu Veneri;Carlos Veras;0.925
+Tadeu Veneri;Carlos Zarattini;0.9
+Tadeu Veneri;Delegada Adriana Accorsi;0.9
+Tadeu Veneri;Dilvanda Faro;0.925
+Tadeu Veneri;Dimas Gadelha;0.9
+Tadeu Veneri;Dr. Francisco;0.9375
+Tadeu Veneri;Jack Rocha;0.9375
+Tadeu Veneri;Lindbergh Farias;0.9
+Tadeu Veneri;Luizianne Lins;0.9
+Tadeu Veneri;Merlong Solano;0.9625
+Tadeu Veneri;Padre João;0.9125
+Tadeu Veneri;Reginaldo Lopes;0.9090909090909091
+Tadeu Veneri;Reimont;0.925
+Tadeu Veneri;Rogério Correia;0.9375
+Tadeu Veneri;Rubens Pereira Júnior;0.9125
+Tadeu Veneri;Josias Gomes;0.9
+Welter;Alfredinho;0.9375
+Welter;Ana Pimentel;0.925
+Welter;Arlindo Chinaglia;0.95
+Welter;Benedita da Silva;0.95
+Welter;Carlos Veras;0.9375
+Welter;Carlos Zarattini;0.95
+Welter;Carol Dartora;0.9
+Welter;Delegada Adriana Accorsi;0.9125
+Welter;Dilvanda Faro;0.9125
+Welter;Dimas Gadelha;0.95
+Welter;Dr. Francisco;0.9625
+Welter;Jack Rocha;0.9375
+Welter;Jorge Solla;0.9125
+Welter;José Guimarães;0.9125
+Welter;Luizianne Lins;0.9
+Welter;Merlong Solano;0.95
+Welter;Padre João;0.9125
+Welter;Reimont;0.975
+Welter;Rogério Correia;0.925
+Welter;Rubens Pereira Júnior;0.9
+Welter;Rui Falcão;0.9125
+Welter;Vander Loubet;0.9
+Welter;Vicentinho;0.9
+Welter;Zé Neto;0.9
+Welter;Zeca Dirceu;0.927536231884058
+Welter;Josias Gomes;0.9125
+Welter;Marcon;0.9
+Patrus Ananias;Helder Salomão;0.9682539682539683
+Patrus Ananias;Luiz Couto;0.9047619047619048
+Patrus Ananias;Rui Falcão;0.9206349206349206
+Célia Xakriabá;Chico Alencar;0.9746835443037974
+Célia Xakriabá;Guilherme Boulos;0.9746835443037974
+Célia Xakriabá;Pastor Henrique Vieira;0.9746835443037974
+Célia Xakriabá;Professora Luciene Cavalcante;0.9746835443037974
+Célia Xakriabá;Talíria Petrone;0.9
+Célia Xakriabá;Tarcísio Motta;0.9620253164556962
+Dandara;Alfredinho;0.9054054054054054
+Dandara;Ana Pimentel;0.9054054054054054
+Dandara;Arlindo Chinaglia;0.9324324324324325
+Dandara;Benedita da Silva;0.9459459459459459
+Dandara;Carlos Veras;0.9054054054054054
+Dandara;Carlos Zarattini;0.9054054054054054
+Dandara;Delegada Adriana Accorsi;0.9054054054054054
+Dandara;Dilvanda Faro;0.9054054054054054
+Dandara;Dr. Francisco;0.9324324324324325
+Dandara;Jack Rocha;0.9459459459459459
+Dandara;Luiza Erundina;0.9230769230769231
+Dandara;Marcon;0.9054054054054054
+Dandara;Merlong Solano;0.9594594594594594
+Dandara;Padre João;0.9324324324324325
+Dandara;Reimont;0.9324324324324325
+Dandara;Rogério Correia;0.9459459459459459
+Dandara;Rubens Pereira Júnior;0.9054054054054054
+Luiza Erundina;Alfredinho;0.9230769230769231
+Luiza Erundina;Ana Pimentel;0.9230769230769231
+Luiza Erundina;Arlindo Chinaglia;0.9230769230769231
+Luiza Erundina;Carlos Veras;0.9230769230769231
+Luiza Erundina;Carlos Zarattini;0.9230769230769231
+Luiza Erundina;Carol Dartora;0.9230769230769231
+Luiza Erundina;Dandara;0.9230769230769231
+Luiza Erundina;Dilvanda Faro;0.9230769230769231
+Luiza Erundina;Dimas Gadelha;0.9230769230769231
+Luiza Erundina;Dr. Francisco;0.9615384615384616
+Luiza Erundina;Erika Kokay;0.9230769230769231
+Luiza Erundina;Guilherme Boulos;0.9230769230769231
+Luiza Erundina;Ivan Valente;0.9230769230769231
+Luiza Erundina;Jorge Solla;0.9230769230769231
+Luiza Erundina;José Guimarães;0.9230769230769231
+Luiza Erundina;Luiz Couto;0.9230769230769231
+Luiza Erundina;Padre João;0.9230769230769231
+Luiza Erundina;Pastor Henrique Vieira;0.9230769230769231
+Luiza Erundina;Professora Luciene Cavalcante;0.9230769230769231
+Luiza Erundina;Reimont;0.9615384615384616
+Luiza Erundina;Rogério Correia;0.9230769230769231
+Luiza Erundina;Rui Falcão;0.9230769230769231
+Luiza Erundina;Tarcísio Motta;0.9230769230769231
+Luiza Erundina;Vander Loubet;0.9230769230769231
+Luiza Erundina;Vicentinho;0.9615384615384616
+Luiza Erundina;Washington Quaquá;0.9230769230769231
