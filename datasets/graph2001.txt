@@ -1,0 +1,16 @@
+Alencar Santana;Murilo Galdino;1
+Alencar Santana;Tabata Amaral;2
+Murilo Galdino;Tabata Amaral;1
+Murilo Galdino;Cabo Gilberto Silva;1
+Murilo Galdino;Deltan Dallagnol;1
+Cabo Gilberto Silva;Deltan Dallagnol;2
+Cabo Gilberto Silva;Capitão Alberto Neto;1
+Deltan Dallagnol; Capitão Alberto Neto;1
+Murilo Galdino;Alencar Santana;1
+Tabata Amaral;Alencar Santana;2
+Tabata Amaral;Murilo Galdino;1
+Cabo Gilberto Silva;Murilo Galdino;1
+Deltan Dallagnol;Murilo Galdino;1
+Deltan Dallagnol;Cabo Gilberto Silva;
+Capitão Alberto Neto;Cabo Gilberto Silva;1
+Capitão Alberto Neto;Deltan Dallagnol;1
