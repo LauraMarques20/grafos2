@@ -8,7 +8,7 @@ import random
 import scipy as sp
 import sys
 filtroAno = input("Digite o ano desejado: ")
-filtroPartido = input("Digite os partidos que deseja analisar, separado por virgulas: ")
+filtroPartido = input("Digite os partidos que deseja analisar, separado por virgulas (caso deseje analisar todos os partidos, pressione enter): ")
 threshold = input("Digite o threshold: ")
 
 if filtroPartido != '':
